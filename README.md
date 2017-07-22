@@ -19,6 +19,12 @@ Paral & Lax (A PEN BY Daniel Riemer) - [Preview](https://codepen.io/zitrusfrisch
 
 Full Page Intro & Navigation (A PEN BY CodyHouse) - [Preview](https://codepen.io/codyhouse/full/jqomk/)  |  [CodePen](https://codepen.io/codyhouse/pen/jqomk)
 
+---
+
+![](https://lh3.googleusercontent.com/tQRuq73E5tA5MmtsCF6931-RVlS6Y95QUWxDVmj1zRorufJwxx3Ror1VHHwUXt_HuMnFsz5KW0ukZbT3N8bFR3-c4c9LDYNm5DZGwnsWgodoD3SCpwXMpdpE7ybCU9GEtrgnE30kAfnMo3z4HQkSeUsv5VVvrPtvI2Vwpm84VIL-DuK5Q2Il0lOgBbqjoqP23TbxgBxO9fy-rS1NpYE_EzL3I41wSuNUuGyfh6QUxI5FWoeEy2hK1KMP7rfXdHHvwI-PUlPyD_R-76BBSEM-93DiEeFcLP0AnWhyaCg0S7wCbv6M8sMj4ix06vMx_m2RXb07VHRTNcDt7ls8VhRUSXjmc1Fwj4HlgLypcNEHCJzwSSYK_lRatyzcRWZpTno5wgZaV2TDQdrIc9LNlWfcGNYBPSSEfYY_BIkHu3GWc0Ue9QvwZa4KQ39lKet9P_S-0YWp2U0pnTUphacE6SQckI4O9UrFIdR9JQxu6iGsbme4MAPFgDg5kKsb-iEGtsyDr8kOEXzWQqV3p2mmJpwgWsMsLD_1yOh7ZR-bnhkrPpCavpJQmVQkkkRqQ67CvwEfXDM-0oa3MPeN0e4YLB2I642lbaQ31NVgCLj29a4_yQseb_e4bg=w760-h450-no)
+
+Firewatch Parallax in CSS (A PEN BY Sam Beckham) - [Preview](https://codepen.io/samdbeckham/full/OPXPNp/)  |  [CodePen](https://codepen.io/samdbeckham/pen/OPXPNp)
+
 # Other
 
 ![](https://lh3.googleusercontent.com/eDpuPASSyWLgKEs3hQbQ7DtoYN7BbOP2Ge0SpDbDHvLEV3daBfzpM9Ly0IlFHNgMTemVSkEdMePsk7Tyyhr-WB-FpOIRXQ58LU3Axr1Zya2HeR-zooh0jB0bBfa-sZkArgO0k0it-Ab2PeGHeLL9Ix1bfPc2eXoXylsJahE3aaiIGv5fJJQRm2uos-qjlUoDxMiCM7KNiUJxFg1sQKWf_Bh-tcbAKoUHqHFSc0mdyUOD1vipM7uPL3Tfxshdnmqnfxb8WfizInqnWy5TTv7sC0vNuOWaJUDp4EqBq44mTP5ejWAE7540sV5zxOjtyXmwHvLoJWDIlj0aQmg9xj8SCh1lmkDOVUjknCwFsDC5HJs-V2gC9jblgB2frHcqUEEYmr_5_ZJcfvieTPgB52Lgke2tUOIxVp6UogD2N4JR7GHsGVMbFRw9aYUeOD5LGZGQEXgOR2bikRmonFzdEvd37T9wjshWUIPMsWbxu0Wr51OETrcPnmTeYsw5iCbZkDQ68um1TAmqeD091W-vsNp9D2Ubb33oGr90YzneIXYIFb7GnNvxGPCAWwerENNSsUHUceLeo29H1HVMLPhCU_XRoShWwK0ZDY_PL4ettu2M5EvrEmrRMQ=w760-h450-no)
