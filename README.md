@@ -11,7 +11,13 @@ Battlefield 3 Loading Indicator (A PEN BY Gareth Weaver) - [Preview](https://cod
 
 ![](https://lh3.googleusercontent.com/QaLnmfFjX6x56OFtEQ-4TsRTVFOr74G87gKPuA5yuGGDw9t-a47vJaUUzhp4wJB4yRqvJtLO49yQIr-3afCQOajkFSXEuKXEq9STQ7jamsYKzibXbi_zvRjzv8mZzjdQFkl0dp5lLu6ul_bBt1CyPd1zmh2hcG41ZGlmYUqPHHvq8CEvbqkZ7bJkFuSNOayMhnMdTy607fb-fFCTBwW0horagIhUb873AaXwMqBl6dvblMQMudj1sox9v7nZSEH7_7LiMe-XRJK4kurD_3mLiIxz-Aol3FIjNz4dhDP9kJys8MwrXZvHLOTC2k4oT0N2IaqyrpfObxG2LSwevnq61OQEh0rVq7ZrsdGjf3Q2j0SM5cQdhq8ghy6zNdm9bQhAWCTPUGOox8YXaYdu2lX23uISG9Ep_uLt3KWQ_ije7nxSrfbV1pulCdcvte0ndgYfMjeJtxjGOwe1Zxap4pDYSTpY8Py9r4xQPjxire3d-LiPBjk1t223hjV2U6-Qo7SX7Wdq668lJc_y9Bykjlz5UbFZvTtfEzcoP1GZSH7Os2ryaGXcvUMkFxucw7okp3XVcO9gSTqleSfuDz3S66eAcxFRB_owJRM2EiFlQoPMWvhSge-nYA=w760-h450-no)
 
-Paral & Lax (A PEN BY Daniel Riemer) - [Preview](https://codepen.io/zitrusfrisch/full/bJwhk/)  |  [CodePen](https://codepen.io/zitrusfrisch/pen/bJwhk) 
+Paral & Lax (A PEN BY Daniel Riemer) - [Preview](https://codepen.io/zitrusfrisch/full/bJwhk/)  |  [CodePen](https://codepen.io/zitrusfrisch/pen/bJwhk)
+
+---
+
+![](https://lh3.googleusercontent.com/FlYOaGLp5b3b8qdg1L5CNUA9DJRsfq2LnFk6HFM4vfSxWtUxAsxrIL_x3xjsfClqpUh8_yvj5kdHdMoYDqUBA4cChC9KherYnxX1uTPj2jmAetrYklqrb8PdlL-0gykIX7WA3HjPnz3EI1ykZwELcw5cY0yT8vSBS5ZOkHnbZm8WK-EqdMcq-O7VLQ8DGkCacxh3pxiWMugn76fEMlBDuJiCO7tmYG6m_NynHhmz8cMwDEk7fII20USA_cSmMARi7fl5H5e-_qQSLalR6JpL5Wv7DtBIYzAyOz9fAOsigATlxNTyMUX_F9eEltza_tdCU-UbxPEbBGmAqi5aBgQduBfuTGKex6GJLeHE3bSbzQ25XzxdxSzLH-6BESAxnyao4ic2QmZfuW6gONkIPQqLvVA8iGeAauXaRFs4gCaWFG82XRalyrLBofvDk9vgVP3Rq1IIgdZeXzSGZ3ub10GtgNmJ-Ln32NwivtTnHR6KM7M3iz5fqYqvojF7DSM3mjG_rgx-1dMV8LbyVoSLAPmUCEM2VaundXI38fKvQkvljezVDSEw0PKhRdxepZcSGo_cRqIMMjoPXpjW9jc1jrnSmkvOoTVq_tOlIizfHr__7qG4otpHSw=w760-h450-no)
+
+Full Page Intro & Navigation (A PEN BY CodyHouse) - [Preview](https://codepen.io/codyhouse/full/jqomk/)  |  [CodePen](https://codepen.io/codyhouse/pen/jqomk)
 
 # Other
 
