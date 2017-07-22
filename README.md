@@ -4,7 +4,7 @@ Here collected a collection of favorite CodePen
 # Animation
 
 # Transitions
-Paral & Lax (A PEN BY Daniel Riemer) - [Preview](https://codepen.io/zitrusfrisch/full/bJwhk/)  |  [CodePen](https://codepen.io/zitrusfrisch/pen/bJwhk) 
+![](https://lh3.googleusercontent.com/FcDWHl_58e_2MjgRYr_sFDsRgLuvcApY_Ld8ozh43tOsCnOXcVpzv1K3alcNKCBuTBO_azskonefKBnMMO0xVgBbS-Dx2da1_NI2uEYiWC6QWu1NeiY9Zn8OHCVLKIR9xLeGnkfbUJuZhOXiVnSgKWc8RCiGFfVQ1RTn0-9NJJBmqWCi9SyzRyBwQ7sa1jvk9HOTANOlZUzenuvQr4lGe1uNAQqmW7oT-3JHUTZcu4WX6Feiika6Buwzk7RsPrew8pcs5dgwoxbXr-3lM3hazAjn-dXHkyULdH-0ZWWyma9Dc6rhft3iK6Bo6ZU7yQYSPtZkq5n1z0ZMveYbVMqZmmMh9ovdafdomAxREZPGbrh5OktCcIFAAuJDQhdCzse4C7w8igPMZMmaewKvueXVKQFIhKZoLZuUJXVp5-loxwnLWlXfe6sNaTtDRalPY4qUaFLEH5UrrKm44R73K3R24R60_27rVzX_vAadfzyvm6nFPGWVghQI8QwY0_XlVGvP8GD4OspjtBCTQ8futjAXRGkUBEMEnJN7XU5wvIoLOX8Jpa1u3O3QCMsauJZ8Z8TEn7LHPExpQgUySxiaAosy1Kl5Wd_OkBmDTabLjEhrKJmpamKu3Q=w760-h456-no)  |  [CodePen](https://codepen.io/zitrusfrisch/pen/bJwhk) 
 
 
 # Other
