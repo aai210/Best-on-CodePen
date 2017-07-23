@@ -54,3 +54,9 @@ Glitch Clock (A PEN BY Constantine) - [Preview](https://codepen.io/dats-wassup/f
 ![](https://lh3.googleusercontent.com/cGrliS-Hw6VtDTIgOBRFcbcmPK3_Ta4amvu-IeHnlOkx-C9-Oj13nzPD2D1xuCM_ioUrIpffFQiEfB9Q0sf6nADxMMRgjRCxAcmm162An8w6CKdX4-psy8e9Ds2JZsFhz5IKpoEz56y5v3SA9AnDsj9FRuszxblUHLfBRU8eL8hdsWta5uTTYs6mTd01qieX3CUqQsJ3OyW5xL6XtV8_ZYxP6Qf_7-8Ht227Vu8LeZVRYJ53hZqyT298MzIx6sPPOzLkFrl1N3CGdSWz2he4BH25qbChRfB13U6rjSgelOQGgLDguV7t9YWce1-U4-cb4FZHBDxlVQgK7xKwngvsmbJD_sBwCiAEJOUSMRfUYCRp7H6SyrzjBfdSaZCNbgg9FUMxDMi2_KIIMv0OV6-cNNXUlWxO0G5HPPWLR139kDXYlbeq6ii5IxkzRnDsDjL818Y80_rT3XhgU_4GrajWcLzW3p2Au7zc9o-49mpmabwC_4bJO59FYuYSvqQq7R5_ICriCM7SlM43-OV68AJh1iu2sCexm0hrar4Sbj4vAfiNUd-F6i4xLQBKFjtSDmepeeA1kaGFidmQxXDa-hITvsDZpUajY0OHAmCU8lQGfq4CGHpZ9g=w760-h450-no)
 
 Material Design (CSS-based) (A PEN BY Sergey Kupletsky) - [Preview](https://codepen.io/zavoloklom/full/wtApI/)  |  [CodePen](https://codepen.io/zavoloklom/pen/wtApI) 
+
+---
+
+![](https://lh3.googleusercontent.com/r4rPE2Srygqe0Bd1cH3XgoObyZ5ZDZSiVeUbDMJIPrvBiwNK2GICv5QpvupWGCNx_oopWhI4CkycCM81YPmFZyMZf5Ht_4TE-GQzaHA5rvDA7NgNLT_vgUfsbHHxMDnWNJu8842-O_FBin_1BufWYYTeKwfx2W7rOg19BQrISgLGuyAd8lYywikxzFkgpQRnq0Fxxw7TD7WO2a7-gBSvxhF5rO3f7HFJ6jYjDGUVgoGMOsI3Qn2qjz0muGjAMxQ51xV0Jl9QZOlVrBTCCscmIpL3efa03MXfAv4PUxo1bU0vsHRC9nW5V378lZ85kOYK1C30EmTb7Uk-B5K3N1yflLrK2VXVpT-eBzVMwSvCe2BZZoVQamGwXrut1zdaDjvF_AxzLQWAw4Vj6urD0WjVgZbDBah_9r9eWd1jzScA6qZoYuGSPLjrKW95nEIigc6X2D4ow6kmt-sD2aLw2LTULW3K5BCrdzU64KC-V-m4MvQauIPT4oajAF-2M_1TL_qbqa0rQFjWSpecJCcn4xsvFszlNAMHt6YsuCe4XIBnYLdDMg5w-m_VWXMAbUfsrA74n0fiOPF_n6dsjmnjxsIWwSJxlsYJ3t0xRS36MLicu8Nb52od-A=w760-h450-no)
+
+Gravity Points (A PEN BY icebrg) - [Preview](https://codepen.io/icebrg/full/qEyKYQ/)  |  [CodePen](https://codepen.io/icebrg/pen/qEyKYQ) 
