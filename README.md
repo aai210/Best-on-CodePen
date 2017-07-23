@@ -41,7 +41,7 @@ Firewatch Parallax in CSS (A PEN BY Sam Beckham) - [Preview](https://codepen.io/
 
 ![](https://lh3.googleusercontent.com/eDpuPASSyWLgKEs3hQbQ7DtoYN7BbOP2Ge0SpDbDHvLEV3daBfzpM9Ly0IlFHNgMTemVSkEdMePsk7Tyyhr-WB-FpOIRXQ58LU3Axr1Zya2HeR-zooh0jB0bBfa-sZkArgO0k0it-Ab2PeGHeLL9Ix1bfPc2eXoXylsJahE3aaiIGv5fJJQRm2uos-qjlUoDxMiCM7KNiUJxFg1sQKWf_Bh-tcbAKoUHqHFSc0mdyUOD1vipM7uPL3Tfxshdnmqnfxb8WfizInqnWy5TTv7sC0vNuOWaJUDp4EqBq44mTP5ejWAE7540sV5zxOjtyXmwHvLoJWDIlj0aQmg9xj8SCh1lmkDOVUjknCwFsDC5HJs-V2gC9jblgB2frHcqUEEYmr_5_ZJcfvieTPgB52Lgke2tUOIxVp6UogD2N4JR7GHsGVMbFRw9aYUeOD5LGZGQEXgOR2bikRmonFzdEvd37T9wjshWUIPMsWbxu0Wr51OETrcPnmTeYsw5iCbZkDQ68um1TAmqeD091W-vsNp9D2Ubb33oGr90YzneIXYIFb7GnNvxGPCAWwerENNSsUHUceLeo29H1HVMLPhCU_XRoShWwK0ZDY_PL4ettu2M5EvrEmrRMQ=w760-h450-no)
 
-Particles.js (A PEN BY Vincent Garreau) - [Preview](https://codepen.io/VincentGarreau/full/pnlso/)  |  [CodePen](https://codepen.io/VincentGarreau/pen/pnlso) 
+Particles (A PEN BY Vincent Garreau) - [Preview](https://codepen.io/VincentGarreau/full/pnlso/)  |  [CodePen](https://codepen.io/VincentGarreau/pen/pnlso) 
 
 ---
 
@@ -53,7 +53,7 @@ Glitch Clock (A PEN BY Constantine) - [Preview](https://codepen.io/dats-wassup/f
 
 ![](https://lh3.googleusercontent.com/cGrliS-Hw6VtDTIgOBRFcbcmPK3_Ta4amvu-IeHnlOkx-C9-Oj13nzPD2D1xuCM_ioUrIpffFQiEfB9Q0sf6nADxMMRgjRCxAcmm162An8w6CKdX4-psy8e9Ds2JZsFhz5IKpoEz56y5v3SA9AnDsj9FRuszxblUHLfBRU8eL8hdsWta5uTTYs6mTd01qieX3CUqQsJ3OyW5xL6XtV8_ZYxP6Qf_7-8Ht227Vu8LeZVRYJ53hZqyT298MzIx6sPPOzLkFrl1N3CGdSWz2he4BH25qbChRfB13U6rjSgelOQGgLDguV7t9YWce1-U4-cb4FZHBDxlVQgK7xKwngvsmbJD_sBwCiAEJOUSMRfUYCRp7H6SyrzjBfdSaZCNbgg9FUMxDMi2_KIIMv0OV6-cNNXUlWxO0G5HPPWLR139kDXYlbeq6ii5IxkzRnDsDjL818Y80_rT3XhgU_4GrajWcLzW3p2Au7zc9o-49mpmabwC_4bJO59FYuYSvqQq7R5_ICriCM7SlM43-OV68AJh1iu2sCexm0hrar4Sbj4vAfiNUd-F6i4xLQBKFjtSDmepeeA1kaGFidmQxXDa-hITvsDZpUajY0OHAmCU8lQGfq4CGHpZ9g=w760-h450-no)
 
-Material Design (CSS-based) (A PEN BY Sergey Kupletsky) - [Preview](https://codepen.io/zavoloklom/full/wtApI/)  |  [CodePen](https://codepen.io/zavoloklom/pen/wtApI) 
+Material Design (A PEN BY Sergey Kupletsky) - [Preview](https://codepen.io/zavoloklom/full/wtApI/)  |  [CodePen](https://codepen.io/zavoloklom/pen/wtApI) 
 
 ---
 
