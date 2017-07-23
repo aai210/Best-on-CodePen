@@ -13,6 +13,12 @@ Battlefield 3 Loading Indicator (A PEN BY Gareth Weaver) - [Preview](https://cod
 
 Material Design Preloader (A PEN BY Michiel Bijl) - [Preview](https://codepen.io/Michiel/full/ogXrBX/)  |  [CodePen](https://codepen.io/Michiel/pen/ogXrBX)
 
+---
+
+![](https://lh3.googleusercontent.com/nWlK9-xpCyBuTGgMJ_hKt3OD0vlcYfdHXJ7WglmYhzKbIewBMuHKRZk4oK9pJn26p0Iwmhr0ZEsCh_RrtMzrSPtd0mcrKv8dVdYTytmDUOBmmHncCj5V0Qom9uGb0KlQ9GuP3zrG56aAVBdLPsXa8tNk4dd62IT7c0Tx6CmUH40_l0JFkeoxLo-QwtJCuLGkRuTUDvA7hhw0Muf2U-ZrURejqHJtxCebCdWgZKY93Dy_jOz7REROcgcWQE98_YtfVK-V2gmuAmTPs_besl65kTrjKgvBuJraTPUJAV4HqymVV3ELYcSkDi8RV2QPjkdgo-C-qvsN8Y0Yd0rqM8eNAN0zHakYutrXmGX7c_4GKL4HJV57pQl7wJd9AiY1L7Cw-C8u7IdqtHY7VH-4aAAMBog6ACvDrzqSQ1NgdDb7E9ugPYw39OnfthFfzlyeXaOwEQGPGh0XL9nH_GA7sdKduOKMrejiU8wl0YyG4SZbZkWLZu_sRcypwdtciE5ZzRzyNhR5v-8-sIrczw9tg1Jwc40meY-u8GyMaxfx9Jz54pXRl-SmA_GZoQUcJTFNUqDUR3vA4dsCfbkHK39-arXPFEg26DZ2Happy0UQoC2Hc4yfAyrGZQ=w760-h450-no)
+
+UI Statistic Pop Out CSS (A PEN BY Jamie Coulter) - [Preview](https://codepen.io/jcoulterdesign/full/jExQGd/)  |  [CodePen](https://codepen.io/jcoulterdesign/pen/jExQGd)
+
 # Transitions
 
 ![](https://lh3.googleusercontent.com/QaLnmfFjX6x56OFtEQ-4TsRTVFOr74G87gKPuA5yuGGDw9t-a47vJaUUzhp4wJB4yRqvJtLO49yQIr-3afCQOajkFSXEuKXEq9STQ7jamsYKzibXbi_zvRjzv8mZzjdQFkl0dp5lLu6ul_bBt1CyPd1zmh2hcG41ZGlmYUqPHHvq8CEvbqkZ7bJkFuSNOayMhnMdTy607fb-fFCTBwW0horagIhUb873AaXwMqBl6dvblMQMudj1sox9v7nZSEH7_7LiMe-XRJK4kurD_3mLiIxz-Aol3FIjNz4dhDP9kJys8MwrXZvHLOTC2k4oT0N2IaqyrpfObxG2LSwevnq61OQEh0rVq7ZrsdGjf3Q2j0SM5cQdhq8ghy6zNdm9bQhAWCTPUGOox8YXaYdu2lX23uISG9Ep_uLt3KWQ_ije7nxSrfbV1pulCdcvte0ndgYfMjeJtxjGOwe1Zxap4pDYSTpY8Py9r4xQPjxire3d-LiPBjk1t223hjV2U6-Qo7SX7Wdq668lJc_y9Bykjlz5UbFZvTtfEzcoP1GZSH7Os2ryaGXcvUMkFxucw7okp3XVcO9gSTqleSfuDz3S66eAcxFRB_owJRM2EiFlQoPMWvhSge-nYA=w760-h450-no)
