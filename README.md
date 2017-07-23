@@ -19,6 +19,12 @@ Material Design Preloader (A PEN BY Michiel Bijl) - [Preview](https://codepen.io
 
 UI Statistic Pop Out CSS (A PEN BY Jamie Coulter) - [Preview](https://codepen.io/jcoulterdesign/full/jExQGd/)  |  [CodePen](https://codepen.io/jcoulterdesign/pen/jExQGd)
 
+---
+
+![](https://lh3.googleusercontent.com/KfOmMRC8V0-C3NqOLkG7E04ldHbMnSckMeRpnB0ac5LC8jDSuslzpv88-xeMWtaaTyN9zRDxiZsMphSEKBaSEHd9XEWUx1_vkEONJ3LRBET_tBGLMe3pQ80dVZ9X6go7zdsa3YdVvWU8odE_Z1hXJiISyoetSHhoIg-bfn3Nrbi6XQZKtIG9N9QalZrF81jEWIUmRnEkIAUWACRXiqYDTUY6oTtIser31ZZVTZfnShZT-vp_p986sDVXLfd4KiubJsiWm1n7KeMulI0Cl5i4CjWhY6n4PP3Ryc3qx0x6DrAGwPMtvY-0ycrXtnrRM3CKZHP4-b4wAtbAfpdUCYevQT7dw9DcRhk2JS6O1XJsgwnyOEOuxrsOKYJATL3tvgf3F-MsMDKbb1PiXMgfWV2xEhHCBpnnZD8AVKHayfLnwhv2EFfOxucvIXzfGWarL9nqx_zbJtxOES3e1F8eQP6sIGjok1C52WsKKZcQmzl8kZ04NU1fw1kWHKLBO574xZ_lslNmJyQbN3czasV31ENU1xwkZ6CDB442Km_KReotNpzp4tbhbCI5-p7g702jW9bB51LvMe0Za-hPfX9z1FAuoX5qG7jecUTxgMm5qHHRdSpx3bzdhA=w760-h450-no)
+
+Animated percentage indicator with Snap (A PEN BY Rachel Smith) - [Preview](https://codepen.io/rachsmith/full/BqpCd/)  |  [CodePen](https://codepen.io/rachsmith/pen/BqpCd)
+
 # Transitions
 
 ![](https://lh3.googleusercontent.com/QaLnmfFjX6x56OFtEQ-4TsRTVFOr74G87gKPuA5yuGGDw9t-a47vJaUUzhp4wJB4yRqvJtLO49yQIr-3afCQOajkFSXEuKXEq9STQ7jamsYKzibXbi_zvRjzv8mZzjdQFkl0dp5lLu6ul_bBt1CyPd1zmh2hcG41ZGlmYUqPHHvq8CEvbqkZ7bJkFuSNOayMhnMdTy607fb-fFCTBwW0horagIhUb873AaXwMqBl6dvblMQMudj1sox9v7nZSEH7_7LiMe-XRJK4kurD_3mLiIxz-Aol3FIjNz4dhDP9kJys8MwrXZvHLOTC2k4oT0N2IaqyrpfObxG2LSwevnq61OQEh0rVq7ZrsdGjf3Q2j0SM5cQdhq8ghy6zNdm9bQhAWCTPUGOox8YXaYdu2lX23uISG9Ep_uLt3KWQ_ije7nxSrfbV1pulCdcvte0ndgYfMjeJtxjGOwe1Zxap4pDYSTpY8Py9r4xQPjxire3d-LiPBjk1t223hjV2U6-Qo7SX7Wdq668lJc_y9Bykjlz5UbFZvTtfEzcoP1GZSH7Os2ryaGXcvUMkFxucw7okp3XVcO9gSTqleSfuDz3S66eAcxFRB_owJRM2EiFlQoPMWvhSge-nYA=w760-h450-no)
