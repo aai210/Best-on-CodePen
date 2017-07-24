@@ -55,6 +55,12 @@ Full Page Intro & Navigation (A PEN BY CodyHouse) - [Preview](https://codepen.io
 
 Firewatch Parallax in CSS (A PEN BY Sam Beckham) - [Preview](https://codepen.io/samdbeckham/full/OPXPNp/)  |  [CodePen](https://codepen.io/samdbeckham/pen/OPXPNp)
 
+---
+
+![](https://lh3.googleusercontent.com/Zq5GXbsaH0KCp334zVsYECSPTieiLwcXyOlEU8hOdkHMt0SdRISnx0thpAE5OsG3a4t6ark5KbVGo-6Bf9FNGJY0BozSI-Jw0qy8IZ2vjBXG1KSJJyphjsZdGIaAh5p8owMJDsexJv75isjfAyAQrUgRUNsZ0z3gl2jfiqbnrdSXz2MWKrZtzcTXMNTCLxc1GNrnEAbkLqOcBpPnuq0HjezNTTPBgTDlTtn63RwgbseuLVjk_7Fs2nZKrRrKhw6RWydV0BzjdsmPbApGVj7hQvx7Wcix_COulGoaOWZ4BhxkZh9j5VyyL-c0Al34K-FJTdV7UUkjwf9VsFwnU3nm6RlZTNJO358_CWTUOoeN6ijCc64Vo8FvkZgQ7aeSqacG55PCIbM4JIaGWk0eRHshUpBZ-dMs1J_HzHctXAMAmSpcOLqmWl90XEutsM3HPYZIqtHw8KVrxTS_pDMaLqK2wNSppRmpbELfKJIrsudKOhrfqV8nHiDb0fveHqVclTOrQhVEevVCXwg8RufcG9QRb1bPP-1z5v-Km_qIRgYJWYMseG8TsjRZksZJPXyDT6tmcXBgQ2CuH4uMtmUdY4Lq0oeGmkQ0rjzAWPM9B2IGohxvsu5cDQ=w760-h449-no)
+
+Image zoom on hover - portfolio websites (A PEN BY Dylan) - [Preview](https://codepen.io/dwinnbrown/full/kXEEAa/)  |  [CodePen](https://codepen.io/dwinnbrown/pen/kXEEAa)
+
 # Other
 
 ![](https://lh3.googleusercontent.com/eDpuPASSyWLgKEs3hQbQ7DtoYN7BbOP2Ge0SpDbDHvLEV3daBfzpM9Ly0IlFHNgMTemVSkEdMePsk7Tyyhr-WB-FpOIRXQ58LU3Axr1Zya2HeR-zooh0jB0bBfa-sZkArgO0k0it-Ab2PeGHeLL9Ix1bfPc2eXoXylsJahE3aaiIGv5fJJQRm2uos-qjlUoDxMiCM7KNiUJxFg1sQKWf_Bh-tcbAKoUHqHFSc0mdyUOD1vipM7uPL3Tfxshdnmqnfxb8WfizInqnWy5TTv7sC0vNuOWaJUDp4EqBq44mTP5ejWAE7540sV5zxOjtyXmwHvLoJWDIlj0aQmg9xj8SCh1lmkDOVUjknCwFsDC5HJs-V2gC9jblgB2frHcqUEEYmr_5_ZJcfvieTPgB52Lgke2tUOIxVp6UogD2N4JR7GHsGVMbFRw9aYUeOD5LGZGQEXgOR2bikRmonFzdEvd37T9wjshWUIPMsWbxu0Wr51OETrcPnmTeYsw5iCbZkDQ68um1TAmqeD091W-vsNp9D2Ubb33oGr90YzneIXYIFb7GnNvxGPCAWwerENNSsUHUceLeo29H1HVMLPhCU_XRoShWwK0ZDY_PL4ettu2M5EvrEmrRMQ=w760-h450-no)
