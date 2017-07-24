@@ -31,6 +31,12 @@ Animated percentage indicator with Snap (A PEN BY Rachel Smith) - [Preview](http
 
 Time-worked/Time-Keeping Nodejs App  (A PEN BY Brett Sauers) - [Preview](https://codepen.io/thedigitalhawk/full/IrkBu/)  |  [CodePen](https://codepen.io/thedigitalhawk/pen/IrkBu)
 
+---
+
+![](https://lh3.googleusercontent.com/irGFUQroEVYe_SL2koYzi0UQJQ8WGXER5e8_njW5GTS9e7g_MibMLLmkKe24-O73ZMvyqsn_1DmL2-r1sabrQQhRVG3mIOi580NcXODVO_2OtcpgLMRzH2BtkANSUFYI5Pt3_IBk0c5PXyF0tvb7onWrPaGKMyVCGG2d_9BQdtOup6V7i-AyWoSkScfjsVWqWi5SLaM2NU4hgN0pPD3TTZfi6ZoNlLfcaGSqrb1FMqizdyAViJXjBkGzTVPvVmskXzRrEIhMD7lva0jR-nUIM2D-WMjr85b_3OcGGOoaeHwWhzfVoHKXpQc5A4xmz1cSoKmdZrWSHyFw_mv2p6CPYNYRB-3nygt9g5xP6UE3_r3lPHJ3aBYLcVjX9Qh2tXleQExnmyEE2iyxBhkosM39WLDxc708bds_X8BO7glB_13Nd9DYyggBZZGPzCOoE4mPAwSK-_L2anA0HHxB9cjiKLUYS0WN4Uu9rPx96veq5JQWkSK3IHswtlTPMztdAJsbNWR4TZFd1w5RUgRg8eZKPEYuvplGirZO64DvDvhh21BB6xnmQfLnPqDlgws8CvgSXlLBx-ws0_sby9TOFCbD0KcUiCLYpS8oMDCh-OvyObqS150Fnw=w760-h450-no)
+
+Circular minimal countdown (A PEN BY Robert) - [Preview](https://codepen.io/rendro/full/qazCG/)  |  [CodePen](https://codepen.io/rendro/pen/qazCG)
+
 # Transitions
 
 ![](https://lh3.googleusercontent.com/QaLnmfFjX6x56OFtEQ-4TsRTVFOr74G87gKPuA5yuGGDw9t-a47vJaUUzhp4wJB4yRqvJtLO49yQIr-3afCQOajkFSXEuKXEq9STQ7jamsYKzibXbi_zvRjzv8mZzjdQFkl0dp5lLu6ul_bBt1CyPd1zmh2hcG41ZGlmYUqPHHvq8CEvbqkZ7bJkFuSNOayMhnMdTy607fb-fFCTBwW0horagIhUb873AaXwMqBl6dvblMQMudj1sox9v7nZSEH7_7LiMe-XRJK4kurD_3mLiIxz-Aol3FIjNz4dhDP9kJys8MwrXZvHLOTC2k4oT0N2IaqyrpfObxG2LSwevnq61OQEh0rVq7ZrsdGjf3Q2j0SM5cQdhq8ghy6zNdm9bQhAWCTPUGOox8YXaYdu2lX23uISG9Ep_uLt3KWQ_ije7nxSrfbV1pulCdcvte0ndgYfMjeJtxjGOwe1Zxap4pDYSTpY8Py9r4xQPjxire3d-LiPBjk1t223hjV2U6-Qo7SX7Wdq668lJc_y9Bykjlz5UbFZvTtfEzcoP1GZSH7Os2ryaGXcvUMkFxucw7okp3XVcO9gSTqleSfuDz3S66eAcxFRB_owJRM2EiFlQoPMWvhSge-nYA=w760-h450-no)
