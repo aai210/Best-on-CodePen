@@ -43,6 +43,12 @@ Circular minimal countdown (A PEN BY Robert) - [Preview](https://codepen.io/rend
 
 Animated SVG Movie Camera Loader (A PEN BY Greg Sweet) - [Preview](https://codepen.io/ControlledChaos/full/aNprdB/)  |  [CodePen](https://codepen.io/ControlledChaos/pen/aNprdB)
 
+---
+
+![](https://lh3.googleusercontent.com/ZT_NXaHaRD9DRj9OYUH1vuwZuK1GUb1c3d9stm9Gw2-Y1lDazbT-TJAlfc7adxELa_8wjQvX2_J-pHFpSsBHt7DmeO9OKHJPL9xeFlGPnTOtLQPc_x9wb21XglXRYO9ViOZzOV25Y5DtrDDhPIRTJCvlS7W5tzUG_s667S_1PhwSs_FvwRKcKFztViW9JBKcqWifNEfFYJ_JXNffrbYn-dXIC-P1SiHa0dOMIJEthRByWLW_-kZ25JGg7Lc-W_23Uyxb0pMBJEWf1JKBvZQjOXKhaaJLtw-AQkhnIT_F8h6b0wbxjVBDpSfSDReJcgUZKZg8OPY0Yo0IUhmg2qKo2ImUT01yDlduAWpMAIHk0KOQRWszBXoXCQ3sU0Ca_1WMtEvwuWAJzrM76Uke3_5V_m94LEQXLmPOWHiQL1eeQZR-UySNX73ZCQBTROqNKyoCtHFzN-6apSIyi_MlS1xuHb7qZBmDScL-JCJ9zW6OelptR1svBS2P3q9ff66Pc-NMXYlKFRuICpoUJ8XM5zrIWQZbJ46sDrT4iJLwuq296RUv7jIUr76piXpON6nsqcThtNJ6wEuSKshEFT_oTNcb_26YAdzV47h1XP-nQk1f6H9mFW4mHw=w760-h450-no)
+
+SVG Loading icons (A PEN BY Aurer) - [Preview](https://codepen.io/aurer/full/jEGbA/)  |  [CodePen](https://codepen.io/aurer/pen/jEGbA)
+
 # Transitions
 
 ![](https://lh3.googleusercontent.com/QaLnmfFjX6x56OFtEQ-4TsRTVFOr74G87gKPuA5yuGGDw9t-a47vJaUUzhp4wJB4yRqvJtLO49yQIr-3afCQOajkFSXEuKXEq9STQ7jamsYKzibXbi_zvRjzv8mZzjdQFkl0dp5lLu6ul_bBt1CyPd1zmh2hcG41ZGlmYUqPHHvq8CEvbqkZ7bJkFuSNOayMhnMdTy607fb-fFCTBwW0horagIhUb873AaXwMqBl6dvblMQMudj1sox9v7nZSEH7_7LiMe-XRJK4kurD_3mLiIxz-Aol3FIjNz4dhDP9kJys8MwrXZvHLOTC2k4oT0N2IaqyrpfObxG2LSwevnq61OQEh0rVq7ZrsdGjf3Q2j0SM5cQdhq8ghy6zNdm9bQhAWCTPUGOox8YXaYdu2lX23uISG9Ep_uLt3KWQ_ije7nxSrfbV1pulCdcvte0ndgYfMjeJtxjGOwe1Zxap4pDYSTpY8Py9r4xQPjxire3d-LiPBjk1t223hjV2U6-Qo7SX7Wdq668lJc_y9Bykjlz5UbFZvTtfEzcoP1GZSH7Os2ryaGXcvUMkFxucw7okp3XVcO9gSTqleSfuDz3S66eAcxFRB_owJRM2EiFlQoPMWvhSge-nYA=w760-h450-no)
