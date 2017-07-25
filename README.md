@@ -37,6 +37,12 @@ Time-worked/Time-Keeping Nodejs App  (A PEN BY Brett Sauers) - [Preview](https:/
 
 Circular minimal countdown (A PEN BY Robert) - [Preview](https://codepen.io/rendro/full/qazCG/)  |  [CodePen](https://codepen.io/rendro/pen/qazCG)
 
+---
+
+![](https://lh3.googleusercontent.com/6lNtrX4rsuN5dELPfbgOj9bJJFuz-3nnm_IbdgNGPAmvC4y8o5pMBsPOUEwLTB4RZtLIq2KWSKQ2QNmWpCWncvFaiKtjklY6mFCvLzPiyzBXPP7sABpqKJajwCfq-l5UHZ4jiG1XZ1KQtvNX9GqTML-2zdFw2V36OPdzG2NPjNmc0gHrh8KrluD6LRAGUhONhKUtIfDFujymeQal_knN2SZrSrqvFixYCjVXLRMvok1WAyaceX6tzzEffSfD4oOMWt4cbkKOYgNWVYlnYPSgTfxb523xP0QewmJ9EFwZrEdo6NJnhI_QqbN6AIDTKXw6Ky_CN1KoxpE8ujKFvwczKCnZGzFjEG8yuyCz2iVLwlM9M3JsHs0rF0QCdmOhpZb0uoRVWDea59jht3lqP976UbgjBbVa73nvHhAapZv8VhFqmZJk14XOGAuJAOH645sc4FkkCUYpcgdeoCMbvzhI9G01iAPr5l2MI-45FmyIXqf5Acp8VtrHaXusZ7Wc_1tSdNTYaBlbz6ompQN0KFNniT2FTKuGrMO_TiP5nQEeT_fCx-OjrsO7Z5w3TSEiayZDwMhFiO2uVJ7D_md_SlZVEPqrWSJFuTFtOVfbazvOq5iBSuTZAQ=w760-h450-no)
+
+Animated SVG Movie Camera Loader (A PEN BY Greg Sweet) - [Preview](https://codepen.io/ControlledChaos/full/aNprdB/)  |  [CodePen](https://codepen.io/ControlledChaos/pen/aNprdB)
+
 # Transitions
 
 ![](https://lh3.googleusercontent.com/QaLnmfFjX6x56OFtEQ-4TsRTVFOr74G87gKPuA5yuGGDw9t-a47vJaUUzhp4wJB4yRqvJtLO49yQIr-3afCQOajkFSXEuKXEq9STQ7jamsYKzibXbi_zvRjzv8mZzjdQFkl0dp5lLu6ul_bBt1CyPd1zmh2hcG41ZGlmYUqPHHvq8CEvbqkZ7bJkFuSNOayMhnMdTy607fb-fFCTBwW0horagIhUb873AaXwMqBl6dvblMQMudj1sox9v7nZSEH7_7LiMe-XRJK4kurD_3mLiIxz-Aol3FIjNz4dhDP9kJys8MwrXZvHLOTC2k4oT0N2IaqyrpfObxG2LSwevnq61OQEh0rVq7ZrsdGjf3Q2j0SM5cQdhq8ghy6zNdm9bQhAWCTPUGOox8YXaYdu2lX23uISG9Ep_uLt3KWQ_ije7nxSrfbV1pulCdcvte0ndgYfMjeJtxjGOwe1Zxap4pDYSTpY8Py9r4xQPjxire3d-LiPBjk1t223hjV2U6-Qo7SX7Wdq668lJc_y9Bykjlz5UbFZvTtfEzcoP1GZSH7Os2ryaGXcvUMkFxucw7okp3XVcO9gSTqleSfuDz3S66eAcxFRB_owJRM2EiFlQoPMWvhSge-nYA=w760-h450-no)
