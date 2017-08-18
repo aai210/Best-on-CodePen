@@ -85,6 +85,12 @@ Image zoom on hover - portfolio websites (A PEN BY Dylan) - [Preview](https://co
 
 Greensock animated slider (A PEN BY Artur Sedlukha) - [Preview](https://codepen.io/sedlukha/full/vZMpKv/)  |  [CodePen](https://codepen.io/sedlukha/pen/vZMpKv)
 
+---
+
+![](https://lh3.googleusercontent.com/qcQUhrexpMZ1YUHxVgR-IMYIPt0FHxh4cLVqcI1OjhYNXBnWwciWq-xX-VFJgCm8GmOmQTulHCbx07oTfevpRxbaIwixk2Inf5a3N-XzNjEBAGiRhdGWPvzOCCnKeHyGTK9H3gadGJ33dqN91QzjSiBSaCRiLQVStNAxWKh_ETIPbbX4TERdjW8k-VFSm2pINDnW5FwmUgMRZ7ZFVSX_jTSbPTfqNQv4QIrebBJITRkdTLI30Nzu-oc2RcW4mYafZDK1y22ZzzdRh8-twOv1OKOCmDyw6on1gqhhLvZfDNTos4H_WkZNNvwil7wb-scVwMW2WctZ4z57TpzCUWBI81649Uww0PHJbYngmUYQJRFQDgiS88rbGReUz21bxHHn9lrKXnIBfdLxAHvtXKuk4gXjPrQaRDFtmRc45JDEjN2Lttk9i9ayLtW-TVTGphCPNuHKw3-bwr2b5V24jQ59_gm-rVwJfahA_oFqI4Pyxp_aTDvtR7g__4JrT6I57rkP6sak7yJa9utmQouqMbjrbfcKQ_xQMK9G9mB7DB4hoPgep6j0ZRiTHDU8cP2k359EQOc5ulnMQhJtQ8a1Qpvfs2Qdsntsp7h0cHmcMfR0i3xUww=w760-h450-no)
+
+CSS-only image slider using SVG patterns (A PEN BY Damián Muti) - [Preview](https://codepen.io/damianmuti/full/OgBWej/)  |  [CodePen](https://codepen.io/damianmuti/pen/OgBWej)
+
 # Other
 
 ![](https://lh3.googleusercontent.com/eDpuPASSyWLgKEs3hQbQ7DtoYN7BbOP2Ge0SpDbDHvLEV3daBfzpM9Ly0IlFHNgMTemVSkEdMePsk7Tyyhr-WB-FpOIRXQ58LU3Axr1Zya2HeR-zooh0jB0bBfa-sZkArgO0k0it-Ab2PeGHeLL9Ix1bfPc2eXoXylsJahE3aaiIGv5fJJQRm2uos-qjlUoDxMiCM7KNiUJxFg1sQKWf_Bh-tcbAKoUHqHFSc0mdyUOD1vipM7uPL3Tfxshdnmqnfxb8WfizInqnWy5TTv7sC0vNuOWaJUDp4EqBq44mTP5ejWAE7540sV5zxOjtyXmwHvLoJWDIlj0aQmg9xj8SCh1lmkDOVUjknCwFsDC5HJs-V2gC9jblgB2frHcqUEEYmr_5_ZJcfvieTPgB52Lgke2tUOIxVp6UogD2N4JR7GHsGVMbFRw9aYUeOD5LGZGQEXgOR2bikRmonFzdEvd37T9wjshWUIPMsWbxu0Wr51OETrcPnmTeYsw5iCbZkDQ68um1TAmqeD091W-vsNp9D2Ubb33oGr90YzneIXYIFb7GnNvxGPCAWwerENNSsUHUceLeo29H1HVMLPhCU_XRoShWwK0ZDY_PL4ettu2M5EvrEmrRMQ=w760-h450-no)
