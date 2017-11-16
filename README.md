@@ -151,3 +151,8 @@ Payment card Interactive UI (A PEN BY Praveen Kumar Gorakala) - [Preview](https:
 
 Alex the CSS Husky (A PEN BY David Khourshid) - [Preview](https://codepen.io/davidkpiano/full/wMqXea/)  |  [CodePen](https://codepen.io/davidkpiano/pen/wMqXea) 
 
+---
+
+![](https://lh3.googleusercontent.com/uMuGeWcEwWOvSRtyWGdZCuWxNgBZ2dh3py_E_nhZQG_A01Am10x4zz6qXiPD1ux8TCZIC3UVLsHQLguEgJBf37CLyH4kSKxd5CKJ_bDLpBj_2RG-gitgi1FWt-r6m0X8BURK6mIkh3Zfd4ISEbvW2mifoDuaLJZcw10ut1AgvGmEe-v85Sv7C5B2f3mWjk-JHf0Gqw92v0v4Yd73ChK8_bQzvuvW-YAyMz5ssCbfvRkOUr6Z8VGRtpJKoLBbTjJDq2FNDpyvfanhzqSFPLbzMALSMKK0IkgMFdJu7xoK0DzpaX_GC4JzibDl6U91Bdl9VOUxkI_0TAVw18kzKI431K0fOJkzulr3phSwo2LwqYsgVZ-h3Iboj71ZfrvVLGwYnc4M2Di64eXK9R9dMQQHh9Ylv8WsJ6M51lYNTj4DdkI1DbQ_n2qUi0vNOnlih_otdrfn91-o4D-Ak7VmRH07xQamEzq55sUXdl5oiAVO9Zlk-V7k5V7cqbmaN6Y1_Y43Enxi7_081SvoOMx3p8ik6Z812_qysiUzXbz60TkBg3yZoa9XyGfeR1KfVrmUfQN8qO32dXwQYfFEoOG0wp_3e_gXOqMKyWmfQHc=w760-h450-no)
+
+Geometrical Birds - slideshow (A PEN BY Mikael Ainalem) - [Preview](https://codepen.io/ainalem/full/rGvaaO/)  |  [CodePen](https://codepen.io/ainalem/pen/rGvaaO)
