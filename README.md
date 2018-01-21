@@ -91,6 +91,12 @@ Greensock animated slider (A PEN BY Artur Sedlukha) - [Preview](https://codepen.
 
 CSS-only image slider using SVG patterns (A PEN BY Damián Muti) - [Preview](https://codepen.io/damianmuti/full/OgBWej/)  |  [CodePen](https://codepen.io/damianmuti/pen/OgBWej)
 
+---
+
+![](https://lh3.googleusercontent.com/jG8tltURp6Ne6J6X-suVXms7Fc5mte3tzmjCk-_AOPEYT87ulNUT4qSlcBkusXcWNn2Gj6rxrSM9CteoYjUle6vAHBRvUbmWbM0Yntyd0E3lauTdTbVCrjdLA8EO9GWcuWayNNUsIL-lcXPE4rcXBIg1N4VSJh-38-H98CC7F221t3-l8cegkpyfCz8MhcB435gbCTcQMnD_RowThvLlW6vK-ZjhFPfc3l9O4VYAH-WETqgVH4jCyglte9cCVlzfH5jd5LjgEoppb3loPsXJqq4A_ZE4qfvK2DyMM2vIFI8bkVfl_01X_KNLnjWmBlQHTGWp7o25wwJIDAD3DpdxIES3sVciNtEXFeCo50EiDDK1_nfCH8yjnPVUTIMxQnH0bDIMZkuhKVzS8nVAV6E0D7l1oWr6WGmjpV08CtvQsz1mXYuQWMTO8_BcXE5egyJ7BROlld-h9rL3wJpI1QbKQqetMtQ8pzeivsB51vSVlx_qIZcJ1fJdmGKAECiF3Njt7an1E4C8aXgRb4xkEFIQeZpQGksPVhAOSbY1JU7sQ1gTTJria3v5lTwclbHYsLCg6RvaNZn3Le7Z0H4P5I-k2CWJn_YYcqYs=w760-h450-no)
+
+Masked Circle Slider (A PEN BY Fabio Ottaviani) - [Preview](https://codepen.io/supah/full/BJYorJ/)  |  [CodePen](https://codepen.io/supah/pen/BJYorJ)
+
 # Other
 
 ![](https://lh3.googleusercontent.com/eDpuPASSyWLgKEs3hQbQ7DtoYN7BbOP2Ge0SpDbDHvLEV3daBfzpM9Ly0IlFHNgMTemVSkEdMePsk7Tyyhr-WB-FpOIRXQ58LU3Axr1Zya2HeR-zooh0jB0bBfa-sZkArgO0k0it-Ab2PeGHeLL9Ix1bfPc2eXoXylsJahE3aaiIGv5fJJQRm2uos-qjlUoDxMiCM7KNiUJxFg1sQKWf_Bh-tcbAKoUHqHFSc0mdyUOD1vipM7uPL3Tfxshdnmqnfxb8WfizInqnWy5TTv7sC0vNuOWaJUDp4EqBq44mTP5ejWAE7540sV5zxOjtyXmwHvLoJWDIlj0aQmg9xj8SCh1lmkDOVUjknCwFsDC5HJs-V2gC9jblgB2frHcqUEEYmr_5_ZJcfvieTPgB52Lgke2tUOIxVp6UogD2N4JR7GHsGVMbFRw9aYUeOD5LGZGQEXgOR2bikRmonFzdEvd37T9wjshWUIPMsWbxu0Wr51OETrcPnmTeYsw5iCbZkDQ68um1TAmqeD091W-vsNp9D2Ubb33oGr90YzneIXYIFb7GnNvxGPCAWwerENNSsUHUceLeo29H1HVMLPhCU_XRoShWwK0ZDY_PL4ettu2M5EvrEmrRMQ=w760-h450-no)
