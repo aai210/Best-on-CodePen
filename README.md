@@ -162,3 +162,9 @@ Alex the CSS Husky (A PEN BY David Khourshid) - [Preview](https://codepen.io/dav
 ![](https://lh3.googleusercontent.com/uMuGeWcEwWOvSRtyWGdZCuWxNgBZ2dh3py_E_nhZQG_A01Am10x4zz6qXiPD1ux8TCZIC3UVLsHQLguEgJBf37CLyH4kSKxd5CKJ_bDLpBj_2RG-gitgi1FWt-r6m0X8BURK6mIkh3Zfd4ISEbvW2mifoDuaLJZcw10ut1AgvGmEe-v85Sv7C5B2f3mWjk-JHf0Gqw92v0v4Yd73ChK8_bQzvuvW-YAyMz5ssCbfvRkOUr6Z8VGRtpJKoLBbTjJDq2FNDpyvfanhzqSFPLbzMALSMKK0IkgMFdJu7xoK0DzpaX_GC4JzibDl6U91Bdl9VOUxkI_0TAVw18kzKI431K0fOJkzulr3phSwo2LwqYsgVZ-h3Iboj71ZfrvVLGwYnc4M2Di64eXK9R9dMQQHh9Ylv8WsJ6M51lYNTj4DdkI1DbQ_n2qUi0vNOnlih_otdrfn91-o4D-Ak7VmRH07xQamEzq55sUXdl5oiAVO9Zlk-V7k5V7cqbmaN6Y1_Y43Enxi7_081SvoOMx3p8ik6Z812_qysiUzXbz60TkBg3yZoa9XyGfeR1KfVrmUfQN8qO32dXwQYfFEoOG0wp_3e_gXOqMKyWmfQHc=w760-h450-no)
 
 Geometrical Birds - slideshow (A PEN BY Mikael Ainalem) - [Preview](https://codepen.io/ainalem/full/rGvaaO/)  |  [CodePen](https://codepen.io/ainalem/pen/rGvaaO)
+
+---
+
+![](https://lh3.googleusercontent.com/UpCCfe2blgrWHjjDnxLhagQLapLPpBR3ir8PoOxU7ASieoYVkSxL6nRsqwKUC5DJd0l0QXUm40HkgYDPSTq9kAMPtjAuhFmLwvjlaiTzUlthEvLkOjAZna-IZZ6ke5n58AxU-KeboP2T281j046s7mTai30cQ7h6Ggoh-YMWnV6yqEmCoTTVQMnbBDYtUexe2UDjUe9FqtkI4Ex9tGXRZObQUb98Ptg6-MmgLWwPuf--58AMhB2A9UtDUh6z-AUplNnd7EoVoJoiNFka64m8ADm_98DNb_c6u0c2q8tC6X-8YRWtZaShQ9KhO64AFBLP2MOofXo537xBcwT1RbwcztZKtiqBx0TbI_a0g3kYQXTB4l5nC5RYbmEzwZGpTn13HrdjECr9ohe1cNEh3v20zH-FFvrw8W7gdKyRH6Hg7g7Hq6ibilWV5A_Bryw5UHh3JYFZQVhe8bmMnU3aGRdUhbsBVvdBqnzg0vWb7o5S8apY6hJAtC0bdqkOvdR7UZOy7BmmSg8j4KL9xVzhHutIqD4l5sMw6qxgFH4dYR5hKt3KsQxxajlV1zOFVNGF4c2U6bo081Fyav1ROqlnYhCpGqfXLTJK2DfO=w760-h450-no)
+
+Pure CSS Moleskine Notebooks (A PEN BY Olivia) - [Preview](https://codepen.io/oliviale/full/bLYQQE/)  |  [CodePen](https://codepen.io/oliviale/pen/bLYQQE)
