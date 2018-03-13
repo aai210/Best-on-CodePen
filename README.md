@@ -168,3 +168,10 @@ Geometrical Birds - slideshow (A PEN BY Mikael Ainalem) - [Preview](https://code
 ![](https://lh3.googleusercontent.com/UpCCfe2blgrWHjjDnxLhagQLapLPpBR3ir8PoOxU7ASieoYVkSxL6nRsqwKUC5DJd0l0QXUm40HkgYDPSTq9kAMPtjAuhFmLwvjlaiTzUlthEvLkOjAZna-IZZ6ke5n58AxU-KeboP2T281j046s7mTai30cQ7h6Ggoh-YMWnV6yqEmCoTTVQMnbBDYtUexe2UDjUe9FqtkI4Ex9tGXRZObQUb98Ptg6-MmgLWwPuf--58AMhB2A9UtDUh6z-AUplNnd7EoVoJoiNFka64m8ADm_98DNb_c6u0c2q8tC6X-8YRWtZaShQ9KhO64AFBLP2MOofXo537xBcwT1RbwcztZKtiqBx0TbI_a0g3kYQXTB4l5nC5RYbmEzwZGpTn13HrdjECr9ohe1cNEh3v20zH-FFvrw8W7gdKyRH6Hg7g7Hq6ibilWV5A_Bryw5UHh3JYFZQVhe8bmMnU3aGRdUhbsBVvdBqnzg0vWb7o5S8apY6hJAtC0bdqkOvdR7UZOy7BmmSg8j4KL9xVzhHutIqD4l5sMw6qxgFH4dYR5hKt3KsQxxajlV1zOFVNGF4c2U6bo081Fyav1ROqlnYhCpGqfXLTJK2DfO=w760-h450-no)
 
 Pure CSS Moleskine Notebooks (A PEN BY Olivia) - [Preview](https://codepen.io/oliviale/full/bLYQQE/)  |  [CodePen](https://codepen.io/oliviale/pen/bLYQQE)
+
+---
+
+![](https://lh3.googleusercontent.com/uXsh7WCS5nuhkYv6dwcpwUeXnqqB7Tbt5ICum_ScYgT8QgAv21D8VvH3-H3JX7YBmr3hQfz-OJ9LQ0FyoQs8zvm8SMDktX7k_sO4kXysKmHfWXrCxpy3WV_KIe-CntwykYonkfvMtk8Xtk4AxvP921ovC4pa-s0_Oez1l__NzBSY-cHBJEUmQTkbvUcRuUNKKqoEeO0qfG5d04zmn3HzYN4io_3AqHgk68RhLF9DV3N6wBHP9Wx_P37L3h7JI_r2IoBgpbvEIceSyv7aPZPx52MwGxKvcruQ9BzeURigTu5KPjs3DICLUUsgBt8_sbvcAeElBGq04WFgRGrNxeoUBJ1ZvnBBjHwHGE5VjamxNTrVL1lZeA9svbTeexnvT99iR_ktVwr4u3kcEzwcaWC_4Ut45EFCby6HUYfAKe1GlWoxSD-07JqXGpVySk2GuYnm-3a3wVea-WAz3gSoHptqzMWinhFNU3O__wb1OzubSpruloDTyrEvAHbJlZMfjDNk3lAk6Q_dIK5RpAaHYammYaCxuBG3zgZLm57zCGnPgfCYys2sUV2fjTEQexslkXy160R88bdnUVw5iFexqXzzDyFZ77YfX4J4=w760-h450-no)
+
+Animated SVG Avatar (A PEN BY Darin) - [Preview](https://codepen.io/dsenneff/full/QajVxO/)  |  [CodePen](https://codepen.io/dsenneff/pen/QajVxO)
+
