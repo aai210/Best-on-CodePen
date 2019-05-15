@@ -204,3 +204,9 @@ SVG Cosmos Pattern (A PEN BY agathaco) - [Preview](https://codepen.io/agathaco/f
 ![](https://lh3.googleusercontent.com/ZtV7drpHLBBZx5_MXUnlKcFOIj3ZFA_baCaKBlBzu6IYMPVLLC6sH1j_L_FFfqT74qepcp6tUqU1s4JQUQcImXgjJ10ChYAzKo_9yCJzGJmIvGXe9tBSl4a1cIDCgdMcx8aHsnDi9T8RsxfGgnOtHGUb69wLzy6KwhMR3s3Xyh6uhD4tUOq50DuJ10HMnY84srmkJRww-LK1jkjNTh9paQeXAZ7WYtL19xZNgmdArGmthbSwWVJTFQtMq0WAjznWLdzoVvF9m_Dpz6wu3RQTyDGIaMciUblZ_AlXsxXx940vUUkGKHiBH6rouZN-h9es-wL2SWJScBJ6XQUDn9l2tRU7EywfnzzD9ieNz0R_k1bPUlvk_8lVWt7lr1S-F0FU6kx0ODyO5YCx-Bi_n5kPBYIougJ1PwGGZuZmUExpVOnwiW9SKDa7YHBFmx2Y5XS1PBgIc4ogiK-QopXAX-4vDSpnSYMFO2fq6TS2cuYrL7gM3RqRR3oP1bYZvPE9SOl9Acz4mKPig9BIH0Ay5mpSQP71BG5bs6PKy_CqOnqocqk60sDmewK9xD658YR9ILet5OR32He-nGPBvYQ0a7dZIcS_DpdYfEb_Tp2Nx5nXC8Mw2SCMMy8IRt9HTdWKhs8xqdto_G8N4v-oLx6K3qxhre8t6UeYRuLq8RDDJw=w760-h450-no)
 
 Bus Derby (A PEN BY Matthew Main) - [Preview](https://codepen.io/matthewmain/full/YJwoVy/)  |  [CodePen](https://codepen.io/matthewmain/pen/YJwoVy)
+
+---
+
+![](http://immage.biz/images/2019/05/15/SQlp.jpg)
+
+Direction aware hover effect (A PEN BY Tobias Reich) - [Preview](https://codepen.io/electerious/full/xeJPbB)  |  [CodePen](https://codepen.io/anon/pen/vwgpvx)
