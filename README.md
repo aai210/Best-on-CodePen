@@ -234,3 +234,9 @@ Solar CSSystem(A PEN BY Rob DiMarzo) - [Preview](https://codepen.io/robdimarzo/f
 ![](https://codropspz-tympanus.netdna-ssl.com/codrops/wp-content/uploads/2019/09/DynamicColorChange_featured.jpg)
 
 Dynamic Colour Picking (A PEN BY Kyle Wetton) - [Preview](https://codepen.io/kylewetton/full/67d6d5a6a4b142c8a8612fed92992792)  |  [CodePen](https://codepen.io/kylewetton/pen/67d6d5a6a4b142c8a8612fed92992792)
+
+---
+
+![](http://immage.biz/images/2020/08/30/SfNX.jpg)
+
+Create blurred fills for images with aspect ratio containers in CSS (A PEN BY Martijn Cuppens) - [Preview](https://codepen.io/MartijnCuppens/full/NWNdOBR)  |  [CodePen](https://codepen.io/MartijnCuppens/pen/NWNdOBR)
