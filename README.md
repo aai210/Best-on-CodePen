@@ -39,7 +39,7 @@ Firewatch Parallax in CSS (A PEN BY Sam Beckham) - [Preview](https://codepen.io/
 
 ---
 
-![](https://lh3.googleusercontent.com/_VgQlDMycRraF99BPfzg0a-yhviXWtwooGFpU-lKJd4ALIMIwHH4Y5UECZnCRsaZeyglp5g4WW_w1_Y6z2bYEIMnkODqqaMseARcNLQM67BLufcGAuTUVkxJ5K168_oH3-3B914cwNbcUu0hjS3Ou2M1mv48lAUoLnr6sGeu_Ur8OCrlJbv_GtXbbyN9bo0MlLDpth7lLMjoPDXVLHqMVzX9yIDPiYNgrzJDO6m21GqUI7gOt8yEc19sH0dVHV8Hkz6G6bW7YBZHuHuipmsTxC0e975K-U1V3iCzXkr0FMeG1zNp1LFeYT7-GFwOFxulEiQWT5AJbBeO8cNdIrxz1cr97hR8tmG6vB0kyvBIoS3m_OpwshCkwBG3ql3PJz64yLfNMMJtlPrS6aw0bO_4Hv359Qdi4xYDQL3VRTXREIjhpzcPEL8xV2fGhG7DUbZtBsfi5XLBDWeWme2qHdfzBaGm8AOhprYDr_APpkKcN2ufBlzaX8D6RcfjnvLivF4cJJqkLfvc1xhHu92bdYqI-4U02VzSnfxT3jnm5CRLyTb4luNh0uJ6ONAPMF0-ZvnLOcIxPLx8UsvCSMS9nqNVVUil2BwB9akBF3pRSg5B6BB4IQb1Bg=w760-h450-no)
+![](https://shots.codepen.io/username/pen/vZMpKv-1280.jpg)
 
 Greensock animated slider (A PEN BY Artur Sedlukha) - [Preview](https://codepen.io/sedlukha/full/vZMpKv/)  |  [CodePen](https://codepen.io/sedlukha/pen/vZMpKv)
 
