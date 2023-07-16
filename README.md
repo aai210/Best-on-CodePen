@@ -15,7 +15,7 @@ UI Statistic Pop Out CSS (A PEN BY Jamie Coulter) - [Preview](https://codepen.io
 
 ---
 
-![](https://lh3.googleusercontent.com/6lNtrX4rsuN5dELPfbgOj9bJJFuz-3nnm_IbdgNGPAmvC4y8o5pMBsPOUEwLTB4RZtLIq2KWSKQ2QNmWpCWncvFaiKtjklY6mFCvLzPiyzBXPP7sABpqKJajwCfq-l5UHZ4jiG1XZ1KQtvNX9GqTML-2zdFw2V36OPdzG2NPjNmc0gHrh8KrluD6LRAGUhONhKUtIfDFujymeQal_knN2SZrSrqvFixYCjVXLRMvok1WAyaceX6tzzEffSfD4oOMWt4cbkKOYgNWVYlnYPSgTfxb523xP0QewmJ9EFwZrEdo6NJnhI_QqbN6AIDTKXw6Ky_CN1KoxpE8ujKFvwczKCnZGzFjEG8yuyCz2iVLwlM9M3JsHs0rF0QCdmOhpZb0uoRVWDea59jht3lqP976UbgjBbVa73nvHhAapZv8VhFqmZJk14XOGAuJAOH645sc4FkkCUYpcgdeoCMbvzhI9G01iAPr5l2MI-45FmyIXqf5Acp8VtrHaXusZ7Wc_1tSdNTYaBlbz6ompQN0KFNniT2FTKuGrMO_TiP5nQEeT_fCx-OjrsO7Z5w3TSEiayZDwMhFiO2uVJ7D_md_SlZVEPqrWSJFuTFtOVfbazvOq5iBSuTZAQ=w760-h450-no)
+![](https://shots.codepen.io/username/pen/aNprdB-1280.jpg)
 
 Animated SVG Movie Camera Loader (A PEN BY Greg Sweet) - [Preview](https://codepen.io/ControlledChaos/full/aNprdB/)  |  [CodePen](https://codepen.io/ControlledChaos/pen/aNprdB)
 
