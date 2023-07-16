@@ -39,12 +39,6 @@ Firewatch Parallax in CSS (A PEN BY Sam Beckham) - [Preview](https://codepen.io/
 
 ---
 
-![](https://lh3.googleusercontent.com/Zq5GXbsaH0KCp334zVsYECSPTieiLwcXyOlEU8hOdkHMt0SdRISnx0thpAE5OsG3a4t6ark5KbVGo-6Bf9FNGJY0BozSI-Jw0qy8IZ2vjBXG1KSJJyphjsZdGIaAh5p8owMJDsexJv75isjfAyAQrUgRUNsZ0z3gl2jfiqbnrdSXz2MWKrZtzcTXMNTCLxc1GNrnEAbkLqOcBpPnuq0HjezNTTPBgTDlTtn63RwgbseuLVjk_7Fs2nZKrRrKhw6RWydV0BzjdsmPbApGVj7hQvx7Wcix_COulGoaOWZ4BhxkZh9j5VyyL-c0Al34K-FJTdV7UUkjwf9VsFwnU3nm6RlZTNJO358_CWTUOoeN6ijCc64Vo8FvkZgQ7aeSqacG55PCIbM4JIaGWk0eRHshUpBZ-dMs1J_HzHctXAMAmSpcOLqmWl90XEutsM3HPYZIqtHw8KVrxTS_pDMaLqK2wNSppRmpbELfKJIrsudKOhrfqV8nHiDb0fveHqVclTOrQhVEevVCXwg8RufcG9QRb1bPP-1z5v-Km_qIRgYJWYMseG8TsjRZksZJPXyDT6tmcXBgQ2CuH4uMtmUdY4Lq0oeGmkQ0rjzAWPM9B2IGohxvsu5cDQ=w760-h449-no)
-
-Image zoom on hover - portfolio websites (A PEN BY Dylan) - [Preview](https://codepen.io/dwinnbrown/full/kXEEAa/)  |  [CodePen](https://codepen.io/dwinnbrown/pen/kXEEAa)
-
----
-
 ![](https://lh3.googleusercontent.com/_VgQlDMycRraF99BPfzg0a-yhviXWtwooGFpU-lKJd4ALIMIwHH4Y5UECZnCRsaZeyglp5g4WW_w1_Y6z2bYEIMnkODqqaMseARcNLQM67BLufcGAuTUVkxJ5K168_oH3-3B914cwNbcUu0hjS3Ou2M1mv48lAUoLnr6sGeu_Ur8OCrlJbv_GtXbbyN9bo0MlLDpth7lLMjoPDXVLHqMVzX9yIDPiYNgrzJDO6m21GqUI7gOt8yEc19sH0dVHV8Hkz6G6bW7YBZHuHuipmsTxC0e975K-U1V3iCzXkr0FMeG1zNp1LFeYT7-GFwOFxulEiQWT5AJbBeO8cNdIrxz1cr97hR8tmG6vB0kyvBIoS3m_OpwshCkwBG3ql3PJz64yLfNMMJtlPrS6aw0bO_4Hv359Qdi4xYDQL3VRTXREIjhpzcPEL8xV2fGhG7DUbZtBsfi5XLBDWeWme2qHdfzBaGm8AOhprYDr_APpkKcN2ufBlzaX8D6RcfjnvLivF4cJJqkLfvc1xhHu92bdYqI-4U02VzSnfxT3jnm5CRLyTb4luNh0uJ6ONAPMF0-ZvnLOcIxPLx8UsvCSMS9nqNVVUil2BwB9akBF3pRSg5B6BB4IQb1Bg=w760-h450-no)
 
 Greensock animated slider (A PEN BY Artur Sedlukha) - [Preview](https://codepen.io/sedlukha/full/vZMpKv/)  |  [CodePen](https://codepen.io/sedlukha/pen/vZMpKv)
