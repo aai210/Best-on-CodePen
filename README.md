@@ -51,7 +51,7 @@ CSS-only image slider using SVG patterns (A PEN BY Damián Muti) - [Preview](htt
 
 ---
 
-![](https://lh3.googleusercontent.com/ih6iQJrFHEPlVEca89jSCYqB_dIg2vY5AnfmVA36bLnA_3WsgfyXf4FborYRxB26LF6DJP-jKgtoUYnpIDNc7Io7uNBjcPQ1AlCk3RWrAbhGeN4YwRuzwjo7nWqSoVjxnDRYo8jbO1YTXbTxZFsuQCHzx8SMr8CFpya7SDi5Ow4o6fB2Lgo_85tZRSn9vN7psSAizCmPW5_ie2bEdmROrExhS7pWASps9YPSykJyozyRdOlkGugM3FnQ0-Fvr8C5L6eTs5jrU7u37EbJUcaGihx0bHdHcMgQcNBqUNMtO8PfLE3WVSjbJGidid_NefAZDwbg0-vXIyFKLG8hc-Hdcjox6grVMm6igVgfToye3YSE1ZMD0uaSZjieMmGXI4bLIfwYNJ-cCK32tKH94vQKY-lKnRnmdGGrC_k-I-VnEvHi4XCmR9Zt-l9x82CeXyp0T-S2GFlHK2xk5PIPoCLVdjIabDTHVfhPOKwPv2CWcVH6M6Q1gx2Y1uFxbrIn30i7OS0a_xSDPxFMDp2Nvj7XFPLmd4ySlHddiAx_EyOPW3tuKZKs-CvnARsmxyeFGJgP1_mGXKp0IyWuiZyLKkxYKvwDA0kGTM_8=w760-h450-no)
+![](https://shots.codepen.io/username/pen/eKPZZz-1280.jpg)
 
 Scrolling Gradient (A PEN BY Mike) - [Preview](https://codepen.io/MadeByMike/full/eKPZZz/)  |  [CodePen](https://codepen.io/anon/pen/EpQPoP)
 
