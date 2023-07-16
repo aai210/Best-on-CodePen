@@ -15,12 +15,6 @@ UI Statistic Pop Out CSS (A PEN BY Jamie Coulter) - [Preview](https://codepen.io
 
 ---
 
-![](https://lh3.googleusercontent.com/irGFUQroEVYe_SL2koYzi0UQJQ8WGXER5e8_njW5GTS9e7g_MibMLLmkKe24-O73ZMvyqsn_1DmL2-r1sabrQQhRVG3mIOi580NcXODVO_2OtcpgLMRzH2BtkANSUFYI5Pt3_IBk0c5PXyF0tvb7onWrPaGKMyVCGG2d_9BQdtOup6V7i-AyWoSkScfjsVWqWi5SLaM2NU4hgN0pPD3TTZfi6ZoNlLfcaGSqrb1FMqizdyAViJXjBkGzTVPvVmskXzRrEIhMD7lva0jR-nUIM2D-WMjr85b_3OcGGOoaeHwWhzfVoHKXpQc5A4xmz1cSoKmdZrWSHyFw_mv2p6CPYNYRB-3nygt9g5xP6UE3_r3lPHJ3aBYLcVjX9Qh2tXleQExnmyEE2iyxBhkosM39WLDxc708bds_X8BO7glB_13Nd9DYyggBZZGPzCOoE4mPAwSK-_L2anA0HHxB9cjiKLUYS0WN4Uu9rPx96veq5JQWkSK3IHswtlTPMztdAJsbNWR4TZFd1w5RUgRg8eZKPEYuvplGirZO64DvDvhh21BB6xnmQfLnPqDlgws8CvgSXlLBx-ws0_sby9TOFCbD0KcUiCLYpS8oMDCh-OvyObqS150Fnw=w760-h450-no)
-
-Circular minimal countdown (A PEN BY Robert) - [Preview](https://codepen.io/rendro/full/qazCG/)  |  [CodePen](https://codepen.io/rendro/pen/qazCG)
-
----
-
 ![](https://lh3.googleusercontent.com/6lNtrX4rsuN5dELPfbgOj9bJJFuz-3nnm_IbdgNGPAmvC4y8o5pMBsPOUEwLTB4RZtLIq2KWSKQ2QNmWpCWncvFaiKtjklY6mFCvLzPiyzBXPP7sABpqKJajwCfq-l5UHZ4jiG1XZ1KQtvNX9GqTML-2zdFw2V36OPdzG2NPjNmc0gHrh8KrluD6LRAGUhONhKUtIfDFujymeQal_knN2SZrSrqvFixYCjVXLRMvok1WAyaceX6tzzEffSfD4oOMWt4cbkKOYgNWVYlnYPSgTfxb523xP0QewmJ9EFwZrEdo6NJnhI_QqbN6AIDTKXw6Ky_CN1KoxpE8ujKFvwczKCnZGzFjEG8yuyCz2iVLwlM9M3JsHs0rF0QCdmOhpZb0uoRVWDea59jht3lqP976UbgjBbVa73nvHhAapZv8VhFqmZJk14XOGAuJAOH645sc4FkkCUYpcgdeoCMbvzhI9G01iAPr5l2MI-45FmyIXqf5Acp8VtrHaXusZ7Wc_1tSdNTYaBlbz6ompQN0KFNniT2FTKuGrMO_TiP5nQEeT_fCx-OjrsO7Z5w3TSEiayZDwMhFiO2uVJ7D_md_SlZVEPqrWSJFuTFtOVfbazvOq5iBSuTZAQ=w760-h450-no)
 
 Animated SVG Movie Camera Loader (A PEN BY Greg Sweet) - [Preview](https://codepen.io/ControlledChaos/full/aNprdB/)  |  [CodePen](https://codepen.io/ControlledChaos/pen/aNprdB)
