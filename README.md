@@ -57,7 +57,7 @@ Scrolling Gradient (A PEN BY Mike) - [Preview](https://codepen.io/MadeByMike/ful
 
 ---
 
-![](https://codropspz-tympanus.netdna-ssl.com/codrops/wp-content/uploads/2019/08/ReactSlider_featured.jpg)
+![](https://shots.codepen.io/username/pen/jgGxKR-1280.jpg)
 
 React Slider w/ Hover Effect (A PEN BY Ryan Mulligan) - [Preview](https://codepen.io/hexagoncircle/full/jgGxKR)  |  [CodePen](https://codepen.io/hexagoncircle/pen/jgGxKR)
 
