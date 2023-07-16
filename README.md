@@ -9,7 +9,7 @@ Battlefield 3 Loading Indicator (A PEN BY Gareth Weaver) - [Preview](https://cod
 
 ---
 
-![](https://lh3.googleusercontent.com/nWlK9-xpCyBuTGgMJ_hKt3OD0vlcYfdHXJ7WglmYhzKbIewBMuHKRZk4oK9pJn26p0Iwmhr0ZEsCh_RrtMzrSPtd0mcrKv8dVdYTytmDUOBmmHncCj5V0Qom9uGb0KlQ9GuP3zrG56aAVBdLPsXa8tNk4dd62IT7c0Tx6CmUH40_l0JFkeoxLo-QwtJCuLGkRuTUDvA7hhw0Muf2U-ZrURejqHJtxCebCdWgZKY93Dy_jOz7REROcgcWQE98_YtfVK-V2gmuAmTPs_besl65kTrjKgvBuJraTPUJAV4HqymVV3ELYcSkDi8RV2QPjkdgo-C-qvsN8Y0Yd0rqM8eNAN0zHakYutrXmGX7c_4GKL4HJV57pQl7wJd9AiY1L7Cw-C8u7IdqtHY7VH-4aAAMBog6ACvDrzqSQ1NgdDb7E9ugPYw39OnfthFfzlyeXaOwEQGPGh0XL9nH_GA7sdKduOKMrejiU8wl0YyG4SZbZkWLZu_sRcypwdtciE5ZzRzyNhR5v-8-sIrczw9tg1Jwc40meY-u8GyMaxfx9Jz54pXRl-SmA_GZoQUcJTFNUqDUR3vA4dsCfbkHK39-arXPFEg26DZ2Happy0UQoC2Hc4yfAyrGZQ=w760-h450-no)
+![](https://www.bypeople.com/wp-content/uploads/2017/09/css-stats-pop-out.png)
 
 UI Statistic Pop Out CSS (A PEN BY Jamie Coulter) - [Preview](https://codepen.io/jcoulterdesign/full/jExQGd/)  |  [CodePen](https://codepen.io/jcoulterdesign/pen/jExQGd)
 
