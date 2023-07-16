@@ -15,12 +15,6 @@ UI Statistic Pop Out CSS (A PEN BY Jamie Coulter) - [Preview](https://codepen.io
 
 ---
 
-![](https://lh3.googleusercontent.com/KfOmMRC8V0-C3NqOLkG7E04ldHbMnSckMeRpnB0ac5LC8jDSuslzpv88-xeMWtaaTyN9zRDxiZsMphSEKBaSEHd9XEWUx1_vkEONJ3LRBET_tBGLMe3pQ80dVZ9X6go7zdsa3YdVvWU8odE_Z1hXJiISyoetSHhoIg-bfn3Nrbi6XQZKtIG9N9QalZrF81jEWIUmRnEkIAUWACRXiqYDTUY6oTtIser31ZZVTZfnShZT-vp_p986sDVXLfd4KiubJsiWm1n7KeMulI0Cl5i4CjWhY6n4PP3Ryc3qx0x6DrAGwPMtvY-0ycrXtnrRM3CKZHP4-b4wAtbAfpdUCYevQT7dw9DcRhk2JS6O1XJsgwnyOEOuxrsOKYJATL3tvgf3F-MsMDKbb1PiXMgfWV2xEhHCBpnnZD8AVKHayfLnwhv2EFfOxucvIXzfGWarL9nqx_zbJtxOES3e1F8eQP6sIGjok1C52WsKKZcQmzl8kZ04NU1fw1kWHKLBO574xZ_lslNmJyQbN3czasV31ENU1xwkZ6CDB442Km_KReotNpzp4tbhbCI5-p7g702jW9bB51LvMe0Za-hPfX9z1FAuoX5qG7jecUTxgMm5qHHRdSpx3bzdhA=w760-h450-no)
-
-Animated percentage indicator with Snap (A PEN BY Rachel Smith) - [Preview](https://codepen.io/rachsmith/full/BqpCd/)  |  [CodePen](https://codepen.io/rachsmith/pen/BqpCd)
-
----
-
 ![](https://lh3.googleusercontent.com/HFrLs9d7wAXrVkaqZRh0C1Hk-RZkdns4ruhy_Y_OQ-UEnXWIwFffwh0KUDBaEi4AgNtmSuaKXmMTx9DylDsRLJMIB6x0iDP83trUINKWUxbCF9GUU4hQxUj32o9RUfA2lIQXC2KLbAzQthpYJBXoBVChCZtygjr3qiCCzHWHD-Pl49KD-F9bIPufnz-4jB8mWSDkdqj8ZDghh_BQubrRZ8nwPKQdQQRp-oXDAki-feJBQKbuvM5UDLWKaqUiiRA3C0mV4yZGURAdgtwLzpQcyoBvH--KCj-V3o4buRbgG7JAsD-FuMKNXv9y2fe0KVDJ3vkGprXqV9Dtg0zn-hKE88EYte5ag9j3vBJ44n6H34NvTMIL3wLgWWVJliq9rcIugrDqjZhtLacdIwDpYiPls-ot-Yaiztw0CBMf7aICOcOa01y0oW6jZ09-IV-C6Ghr7ROD9eQS6KIz23OGNVDboe-2koCde-TmA-FxdmFm5umwfQcNQiLlg1BkJrtZRnKnkmntmGeYRk8I9_E_vbCLtGV46_VgS7zUadcnC-1RhsNbWNI13M5JV4fPHXjVs3UaQBXIYJDaW5X5LGYGUklv4CO2WIDnyCtEbaZc1gr2MBZuf73lNw=w760-h450-no)
 
 Time-worked/Time-Keeping Nodejs App  (A PEN BY Brett Sauers) - [Preview](https://codepen.io/thedigitalhawk/full/IrkBu/)  |  [CodePen](https://codepen.io/thedigitalhawk/pen/IrkBu)
