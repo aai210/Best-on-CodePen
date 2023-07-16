@@ -15,12 +15,6 @@ UI Statistic Pop Out CSS (A PEN BY Jamie Coulter) - [Preview](https://codepen.io
 
 ---
 
-![](https://lh3.googleusercontent.com/HFrLs9d7wAXrVkaqZRh0C1Hk-RZkdns4ruhy_Y_OQ-UEnXWIwFffwh0KUDBaEi4AgNtmSuaKXmMTx9DylDsRLJMIB6x0iDP83trUINKWUxbCF9GUU4hQxUj32o9RUfA2lIQXC2KLbAzQthpYJBXoBVChCZtygjr3qiCCzHWHD-Pl49KD-F9bIPufnz-4jB8mWSDkdqj8ZDghh_BQubrRZ8nwPKQdQQRp-oXDAki-feJBQKbuvM5UDLWKaqUiiRA3C0mV4yZGURAdgtwLzpQcyoBvH--KCj-V3o4buRbgG7JAsD-FuMKNXv9y2fe0KVDJ3vkGprXqV9Dtg0zn-hKE88EYte5ag9j3vBJ44n6H34NvTMIL3wLgWWVJliq9rcIugrDqjZhtLacdIwDpYiPls-ot-Yaiztw0CBMf7aICOcOa01y0oW6jZ09-IV-C6Ghr7ROD9eQS6KIz23OGNVDboe-2koCde-TmA-FxdmFm5umwfQcNQiLlg1BkJrtZRnKnkmntmGeYRk8I9_E_vbCLtGV46_VgS7zUadcnC-1RhsNbWNI13M5JV4fPHXjVs3UaQBXIYJDaW5X5LGYGUklv4CO2WIDnyCtEbaZc1gr2MBZuf73lNw=w760-h450-no)
-
-Time-worked/Time-Keeping Nodejs App  (A PEN BY Brett Sauers) - [Preview](https://codepen.io/thedigitalhawk/full/IrkBu/)  |  [CodePen](https://codepen.io/thedigitalhawk/pen/IrkBu)
-
----
-
 ![](https://lh3.googleusercontent.com/irGFUQroEVYe_SL2koYzi0UQJQ8WGXER5e8_njW5GTS9e7g_MibMLLmkKe24-O73ZMvyqsn_1DmL2-r1sabrQQhRVG3mIOi580NcXODVO_2OtcpgLMRzH2BtkANSUFYI5Pt3_IBk0c5PXyF0tvb7onWrPaGKMyVCGG2d_9BQdtOup6V7i-AyWoSkScfjsVWqWi5SLaM2NU4hgN0pPD3TTZfi6ZoNlLfcaGSqrb1FMqizdyAViJXjBkGzTVPvVmskXzRrEIhMD7lva0jR-nUIM2D-WMjr85b_3OcGGOoaeHwWhzfVoHKXpQc5A4xmz1cSoKmdZrWSHyFw_mv2p6CPYNYRB-3nygt9g5xP6UE3_r3lPHJ3aBYLcVjX9Qh2tXleQExnmyEE2iyxBhkosM39WLDxc708bds_X8BO7glB_13Nd9DYyggBZZGPzCOoE4mPAwSK-_L2anA0HHxB9cjiKLUYS0WN4Uu9rPx96veq5JQWkSK3IHswtlTPMztdAJsbNWR4TZFd1w5RUgRg8eZKPEYuvplGirZO64DvDvhh21BB6xnmQfLnPqDlgws8CvgSXlLBx-ws0_sby9TOFCbD0KcUiCLYpS8oMDCh-OvyObqS150Fnw=w760-h450-no)
 
 Circular minimal countdown (A PEN BY Robert) - [Preview](https://codepen.io/rendro/full/qazCG/)  |  [CodePen](https://codepen.io/rendro/pen/qazCG)
