@@ -3,7 +3,7 @@ Here collected a collection of favorite CodePen
 
 # Animation
 
-![](https://lh3.googleusercontent.com/9v88r4sTJD2Na5j9VjXIHAC_lwAa_XTaAlTlvTvtOTUjwbvtN2A85mVlf4pdnggUXFmX1O1blUFlqjISig9CDyhXfCEjrOB4p5H6Qa9g-JpFanjT7TJps89W45VEQ5t1tuSBpKoQJ-D7gyrXpNfkAymwE52hBNmYESKqaAea9fyz-uz4YBs3PjFuN0izsSKYrZ7vO_vzvWW_sC3UGw_zDOLFAkhxCyewY4RvRFThi9mHwBtTe2SA3dLVerQjYI-tEZoq6t8cJFkZJF-mcWzVPd8JRjIH9uKuvM5YsBe-OO6U1XUj4zplsYYpFhMXVU4xTyfCBKaMusudGkasrzSbM79E7EA0zNycHTbSADNxAWsKrM7S0Z1vh_ghtmPsVx8ltJv2CwBe_3V7ZHByYM4ZLXwVlTMxNHIUeW1szSlXG5NWGiRUyOvrf5c2dQtTTMITDnc7-bu3sWDK0ogr1JqXwdspGOiLyEwy02Dy5RrAzH7VrNvfUSeW1YFNz-70AFkFe1Js7eZrYsPGMN_u0-CNEd1bWYFiY2x6TGag-HfEEMnqVcZWzmxlWQqeSNc9uC61UKoGX_dxNZbDK9oUQJmOs-sIFLra8e3HhlfipbT76ygm-C9ybA=w760-h450-no)
+![](https://i.pinimg.com/originals/f9/60/75/f96075e0ac443e971d3555ef16751307.gif)
 
 Battlefield 3 Loading Indicator (A PEN BY Gareth Weaver) - [Preview](https://codepen.io/garethdweaver/full/zdElu/)  |  [CodePen](https://codepen.io/garethdweaver/pen/zdElu) 
 
