@@ -45,7 +45,7 @@ Greensock animated slider (A PEN BY Artur Sedlukha) - [Preview](https://codepen.
 
 ---
 
-![](https://lh3.googleusercontent.com/M1ToegjRABbyTpqvctD7q7Szl2Sr_beofMGYz1CEWj74FeAz6l04NeEOJ2r1yE-BRs472Hg3sR6j0-FzA8hVcWYsZJM2MoBFQyhahvgCDRj1LH3UDBmI9NNDll8KYLET7COQaZXS5fGckfEKQbAXS_P28xY2Oe4WjE5lsZnl7VKvT1IOe52J7bHORZxx7e18EKK9E0q2uznlDtUtY0F1x79TMR8m2YMc2H7AalTByd2JcxXPrEFTvYxsrAV9kMEeYYHEUW6zVjHJVaeNKaArAWn-l7f_Kl90AnwUimGkJkND9t3eOVzWgFt321qhlcpJantGyGC6J468bLcXjaX0nT8wqG3HRdgUBXEfCtWujT9d83c1TJgyyYcXiKQ8PH0Q_FZWm9v4WoZ3w_9fE23LTsaVXxIrQdBt547TuJxwiNLaYqm3g41KlhhCtv_DaXGrubSd4AKECzK-HzD9i0w5ASykN4C1XhGngbG9-IpArReQLH1fQE-SNr_czsQlXyUkKPAjldQkDGBBBTnGVaySLhC4SBHyWtu48BmkVd3piL_xwnhkNtR9jI-hH3RO5zoZoHeMaphkMnvVLg8DGrKrXjEntCYxjonH=w760-h450-no)
+![](https://assets.codepen.io/52275/internal/screenshots/pens/OgBWej.custom.jpg)
 
 CSS-only image slider using SVG patterns (A PEN BY Damián Muti) - [Preview](https://codepen.io/damianmuti/full/OgBWej/)  |  [CodePen](https://codepen.io/damianmuti/pen/OgBWej)
 
