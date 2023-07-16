@@ -21,7 +21,7 @@ Animated SVG Movie Camera Loader (A PEN BY Greg Sweet) - [Preview](https://codep
 
 ---
 
-![](https://lh3.googleusercontent.com/gSmFyH23t0fwKmIHeKS-Z-sEopghDpT2V0gUYHe0uH8F2vklTuzIFS3tVlABRCASQked3qRWtrdp5lAwXPV4MV2Mw0rK8oK-toRlzwkO8yIUg5NIf2nh-BocWvs7EbqBzDPE4SudQ0ItYnSGaJS5hWXF34rL_drsqScc9j77udD1zHeOANef-jptFw_9KDgVoHs5HZo3RyOIGXaxv9i_Q9Yq672-lUyohsLM8P6ej6eANbnbVvDHaLy3eoD0OSXeCqgkCn7rCzgdjn9Cj9lNEvHOFHRvnyL0X26M-DekoaI6rE-BMoKVzJzTM3mNKnFih7EZT8pU9J-OW7VK-dEP2DbtKTyHdv1QEbb7Lv14k4TNk562_R76M4y4rhSwqcAb6TKkt1J9DZIWTalSl24DCKYrBtRMSmksrtLSPcp2l0wdNSXM7SGefgzmEq3PEVud20_bexHxn7f97w3QdwJ_jHIxX16ZY-KOtp-KIul9hJ7m0zYcRqLyzwnfdPbSweVTo6BQCm6xGQZQORzTNV_Tda5tYo6qLGW53DTomAoFpuPI3BaoIR2SDnllcfWywYonXLTz0_FolEa11RznK8h_G95t4ez3LA_Yy5AbM-S2NiL5viLOng=w760-h450-no)
+![](https://shots.codepen.io/username/pen/pbzEYr-1280.jpg)
 
 Interactive SVG Info Graph (A PEN BY Chris Gannon) - [Preview](https://codepen.io/chrisgannon/full/pbzEYr/)  |  [CodePen](https://codepen.io/chrisgannon/pen/pbzEYr)
 
