@@ -21,12 +21,6 @@ Animated SVG Movie Camera Loader (A PEN BY Greg Sweet) - [Preview](https://codep
 
 ---
 
-![](https://lh3.googleusercontent.com/ZT_NXaHaRD9DRj9OYUH1vuwZuK1GUb1c3d9stm9Gw2-Y1lDazbT-TJAlfc7adxELa_8wjQvX2_J-pHFpSsBHt7DmeO9OKHJPL9xeFlGPnTOtLQPc_x9wb21XglXRYO9ViOZzOV25Y5DtrDDhPIRTJCvlS7W5tzUG_s667S_1PhwSs_FvwRKcKFztViW9JBKcqWifNEfFYJ_JXNffrbYn-dXIC-P1SiHa0dOMIJEthRByWLW_-kZ25JGg7Lc-W_23Uyxb0pMBJEWf1JKBvZQjOXKhaaJLtw-AQkhnIT_F8h6b0wbxjVBDpSfSDReJcgUZKZg8OPY0Yo0IUhmg2qKo2ImUT01yDlduAWpMAIHk0KOQRWszBXoXCQ3sU0Ca_1WMtEvwuWAJzrM76Uke3_5V_m94LEQXLmPOWHiQL1eeQZR-UySNX73ZCQBTROqNKyoCtHFzN-6apSIyi_MlS1xuHb7qZBmDScL-JCJ9zW6OelptR1svBS2P3q9ff66Pc-NMXYlKFRuICpoUJ8XM5zrIWQZbJ46sDrT4iJLwuq296RUv7jIUr76piXpON6nsqcThtNJ6wEuSKshEFT_oTNcb_26YAdzV47h1XP-nQk1f6H9mFW4mHw=w760-h450-no)
-
-SVG Loading icons (A PEN BY Aurer) - [Preview](https://codepen.io/aurer/full/jEGbA/)  |  [CodePen](https://codepen.io/aurer/pen/jEGbA)
-
----
-
 ![](https://lh3.googleusercontent.com/gSmFyH23t0fwKmIHeKS-Z-sEopghDpT2V0gUYHe0uH8F2vklTuzIFS3tVlABRCASQked3qRWtrdp5lAwXPV4MV2Mw0rK8oK-toRlzwkO8yIUg5NIf2nh-BocWvs7EbqBzDPE4SudQ0ItYnSGaJS5hWXF34rL_drsqScc9j77udD1zHeOANef-jptFw_9KDgVoHs5HZo3RyOIGXaxv9i_Q9Yq672-lUyohsLM8P6ej6eANbnbVvDHaLy3eoD0OSXeCqgkCn7rCzgdjn9Cj9lNEvHOFHRvnyL0X26M-DekoaI6rE-BMoKVzJzTM3mNKnFih7EZT8pU9J-OW7VK-dEP2DbtKTyHdv1QEbb7Lv14k4TNk562_R76M4y4rhSwqcAb6TKkt1J9DZIWTalSl24DCKYrBtRMSmksrtLSPcp2l0wdNSXM7SGefgzmEq3PEVud20_bexHxn7f97w3QdwJ_jHIxX16ZY-KOtp-KIul9hJ7m0zYcRqLyzwnfdPbSweVTo6BQCm6xGQZQORzTNV_Tda5tYo6qLGW53DTomAoFpuPI3BaoIR2SDnllcfWywYonXLTz0_FolEa11RznK8h_G95t4ez3LA_Yy5AbM-S2NiL5viLOng=w760-h450-no)
 
 Interactive SVG Info Graph (A PEN BY Chris Gannon) - [Preview](https://codepen.io/chrisgannon/full/pbzEYr/)  |  [CodePen](https://codepen.io/chrisgannon/pen/pbzEYr)
