@@ -81,7 +81,7 @@ Gravity Points (A PEN BY icebrg) - [Preview](https://codepen.io/icebrg/full/qEyK
 
 ---
 
-![](https://lh3.googleusercontent.com/Du4zjbuq4nFHr7ZMeyZ5Ow1U-VLmi1vPT5RJXufXkHAWzTXOXcx2jaucWT3W4KkklpVCRr8CHYVoLAq5gVVYy2JiGaqUmgeWn2pEkCkQevJCBBt2E_jQ2j4Xp796Q2jLJvVERwqxCnyJd-iyS9RuI5fMu4PR9cPfNGAH8pIar0mhES-WJAFBSfv2U-34tMzB_rDX0K1oUrJ_rboOisNvfJPMKFVvSVEM_8Rik9kLe7wPH6Pik5ct_pWvNmosjZjoys0bQ3r4bMA-cwGfwESX_dddrvQzwS__4OuiZsdbUIMSCZBsudOjcNzBilyc5Yu_PogNRNM4X7V5gi_FGYctqTIuTTWAZCLplsUqMddkAij_m77xjYWT0RX3XK74LSW4Pa62PTsSFdegBet2fehqM7TqSAX-XT7HGj1ctnSAh656uxRzlmCwYFadtiz2d91sH-aDzSSxSxcRNAYhCvLvC5RU04lrq0K56ey5xRZQ4XmRUTVYHMrmbzBz3IELMT_SQr3l8x_WYKWOWXHsLmUiJz8BevKkfOfnST3fTkCYpwoex7qNhzAkDP3nMOZ87StqUZ4KHYH6ZofozicihRhtm-AVP0_mytAY-H73mJwF-i9znKpFdg=w760-h450-no)
+![](https://shots.codepen.io/guyom/pen/rmXyvR-1280.jpg)
 
 GSAP / Fidget Spinner (A PEN BY pixelmort) - [Preview](https://codepen.io/guyom/full/rmXyvR/)  |  [CodePen](https://codepen.io/guyom/pen/rmXyvR) 
 
