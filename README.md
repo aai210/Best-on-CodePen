@@ -75,7 +75,7 @@ Glitch Clock (A PEN BY Constantine) - [Preview](https://codepen.io/dats-wassup/f
 
 ---
 
-![](https://lh3.googleusercontent.com/r4rPE2Srygqe0Bd1cH3XgoObyZ5ZDZSiVeUbDMJIPrvBiwNK2GICv5QpvupWGCNx_oopWhI4CkycCM81YPmFZyMZf5Ht_4TE-GQzaHA5rvDA7NgNLT_vgUfsbHHxMDnWNJu8842-O_FBin_1BufWYYTeKwfx2W7rOg19BQrISgLGuyAd8lYywikxzFkgpQRnq0Fxxw7TD7WO2a7-gBSvxhF5rO3f7HFJ6jYjDGUVgoGMOsI3Qn2qjz0muGjAMxQ51xV0Jl9QZOlVrBTCCscmIpL3efa03MXfAv4PUxo1bU0vsHRC9nW5V378lZ85kOYK1C30EmTb7Uk-B5K3N1yflLrK2VXVpT-eBzVMwSvCe2BZZoVQamGwXrut1zdaDjvF_AxzLQWAw4Vj6urD0WjVgZbDBah_9r9eWd1jzScA6qZoYuGSPLjrKW95nEIigc6X2D4ow6kmt-sD2aLw2LTULW3K5BCrdzU64KC-V-m4MvQauIPT4oajAF-2M_1TL_qbqa0rQFjWSpecJCcn4xsvFszlNAMHt6YsuCe4XIBnYLdDMg5w-m_VWXMAbUfsrA74n0fiOPF_n6dsjmnjxsIWwSJxlsYJ3t0xRS36MLicu8Nb52od-A=w760-h450-no)
+![](https://shots.codepen.io/username/pen/zdpLVY-800.jpg)
 
 Gravity Points (A PEN BY icebrg) - [Preview](https://codepen.io/icebrg/full/qEyKYQ/)  |  [CodePen](https://codepen.io/icebrg/pen/qEyKYQ)
 
