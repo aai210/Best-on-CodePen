@@ -117,13 +117,7 @@ Credit Card Payment Form (A PEN BY Adam Quinlan) - [Preview](https://codepen.io/
 
 ---
 
-![](https://lh3.googleusercontent.com/kqybU0uYAAIdt8RtSDd-cpHmY6hD9VHTaYfd-ImsNE91bXoKeuaRCSPv8oCQ7QzwxeRweQAgtZYFbA0kak8j0Sm4P5k0pe19hObZdQOpuWHyc4z4yQAi3_tUkFWvKiL7lWAgxVzqPqWkVd-QGsYOSchMk8xLHZYnr1rIH9ydA7u5zu2bEwpcy4mXwX5kYAl1HZnUYF5LgGfeg_5Q5CoRcAdLlAlN3CwYUT6l5iKFQQ1KqS_n-TVv6XQWWLKxfc4hRVjbShxYcDUKLIkJd4Kk1UnfD1XyB8jtnZeoi2jc0A9XWPmcN2c3YhYmXZBa2YgbeEQCohxCmlFGpoqJ-DYXS7bVgMjC_b1mPI5L-OHvv1I-mgqt580ztaiCapwE0pp9nZ9ihI7I7a6K6288edZSZ82Iwr3SwCieiUrqHnQD7WG3yefS6f5bHvNdpKtaLXeR1G6u9DupWpiKjc_ceWuL1Ol8p6UHfyt8mjtZkvXu5Nv6_yQEBJF5WzM0qNZ5jeergG5oRU5cCS-sI7vNspiT9IualfqFnt6B7azPahYm7vspuIrcLjGZweCiBMFOq_XRSBJj51305Ec-MXrd_9pa_Q-48-HHx8SZsFoBrQpblCCHVSYxiCfkMJRZWZ5aRJVahCT4gMaeiuOcR4JfRA=w760-h450-no)
-
-SVG Cosmos Pattern (A PEN BY agathaco) - [Preview](https://codepen.io/agathaco/full/rqMORZ/)  |  [CodePen](https://codepen.io/agathaco/pen/rqMORZ)
-
----
-
-![](https://lh3.googleusercontent.com/ZtV7drpHLBBZx5_MXUnlKcFOIj3ZFA_baCaKBlBzu6IYMPVLLC6sH1j_L_FFfqT74qepcp6tUqU1s4JQUQcImXgjJ10ChYAzKo_9yCJzGJmIvGXe9tBSl4a1cIDCgdMcx8aHsnDi9T8RsxfGgnOtHGUb69wLzy6KwhMR3s3Xyh6uhD4tUOq50DuJ10HMnY84srmkJRww-LK1jkjNTh9paQeXAZ7WYtL19xZNgmdArGmthbSwWVJTFQtMq0WAjznWLdzoVvF9m_Dpz6wu3RQTyDGIaMciUblZ_AlXsxXx940vUUkGKHiBH6rouZN-h9es-wL2SWJScBJ6XQUDn9l2tRU7EywfnzzD9ieNz0R_k1bPUlvk_8lVWt7lr1S-F0FU6kx0ODyO5YCx-Bi_n5kPBYIougJ1PwGGZuZmUExpVOnwiW9SKDa7YHBFmx2Y5XS1PBgIc4ogiK-QopXAX-4vDSpnSYMFO2fq6TS2cuYrL7gM3RqRR3oP1bYZvPE9SOl9Acz4mKPig9BIH0Ay5mpSQP71BG5bs6PKy_CqOnqocqk60sDmewK9xD658YR9ILet5OR32He-nGPBvYQ0a7dZIcS_DpdYfEb_Tp2Nx5nXC8Mw2SCMMy8IRt9HTdWKhs8xqdto_G8N4v-oLx6K3qxhre8t6UeYRuLq8RDDJw=w760-h450-no)
+![](https://assets.codepen.io/409445/internal/screenshots/pens/YJwoVy.custom.png)
 
 Bus Derby (A PEN BY Matthew Main) - [Preview](https://codepen.io/matthewmain/full/YJwoVy/)  |  [CodePen](https://codepen.io/matthewmain/pen/YJwoVy)
 
