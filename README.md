@@ -111,7 +111,7 @@ Mouse movement button (A PEN BY Tobias Reich) - [Preview](https://codepen.io/ele
 
 ---
 
-![](https://lh3.googleusercontent.com/7exMyliHUD2tOvqQg4E7ofb8yNdP4FLSyMaWbLwhkFOMrzTe2N2u2ETcPtY23niBg0RmNA0da8kYeXhxA3QOo0Oi6ccG3QmWLveEvv1ZK_x7yd7ZlSRobmHLDbIZ8IRl-Lq6oFViJYmdx_tREsCb0T4JCyVuheRXO1-fvDSvXOUbuaA5JU01lI__SgEn_wBy8crf1972EPY_6NjlFDRkywyYWetqHZJrJhfI3mJ5CB8dNv8H8SxaxGKXUFgWu6QFgluRN9j8PO1ElBr0_Y0w8Twpr2lxWpKFYyLamFQx4B8a4xms-WQlkblSPQ0v__I_VUpMtzAeJUsBYqFWnKyFhwgTeBd2IlEMb-kS9pau9z2teLkyFI5xZYdDMIuR9lQUWs9vM9aBXwe-Lc-MCoGOEAkQlojVxDCHZhHBZgrGnmT-luadPeLdAOwc45KMo_7G2gT7CuVs3kQCFMxSAQcyyL-5Fd7ioEF6bRxQPAcj0urnSKtrQJzs6GmEpOfx1zxfAwzRn9RE3kIcfQ06QLgfIbkRIaHglBOU_RJBBXvWZJYMij8ddDddzfWQhR905QjP7pTbrSUCmX21JERBhlgQdlaAXum3xDkvouY-EkGHHkWkaGsFFMNAPKTC=w760-h450-no)
+![](https://shots.codepen.io/quinlo/pen/YONMEa-1280.jpg)
 
 Credit Card Payment Form (A PEN BY Adam Quinlan) - [Preview](https://codepen.io/quinlo/full/YONMEa)  |  [CodePen](https://codepen.io/quinlo/pen/YONMEa)
 
