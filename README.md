@@ -93,13 +93,7 @@ Payment card Interactive UI (A PEN BY Praveen Kumar Gorakala) - [Preview](https:
 
 ---
 
-![](https://lh3.googleusercontent.com/23lXbCXUX4UEoqH-e86boBWRSfRQvXN5Npek7Cjrg1pw8ssSw2c8GITSVlYsCGaqSBNc9pX3ci9c4xReKbP9EJqwuIYBErHj5GknH4kxRWE8wB66RyFUj0vfuM6Mft3xqEuyEgBygP96FmuXDYH0T2vBFYZrAg9z1oCxJvuNqOm0E1NmDvaSg2J1zpaU939xfKXYWZQ-eLExFGUqmuGN0gL5mmQrUitEf4JMi1Q_eVxF17ZooPtsklZjUoL6fUkZhjyJpPPrhZKjKO44SybaQ8Hvb4Byt2REbRvPsOAmxJnLQgHfL45pWz0TxeiSuU7WFV9TsOQ0QHI12zARQ5wuFG61k0v8VgEQcoMUGX6v-gVWIHmCtNB3feDNEYHM2n08UBg0Q9l-fGOCK_AxNiK3MyJ9jllH80saXCSOjB_BAs2uKb-dW5pI5URk-w8XlCSvXQ55ipE4SyGUBv2dcz4lY9NrAjc-uEV1fCE14wxQ0KeeFbSq6tf8AfMYEKqdAl_iJacy9m1RNv3plQTnO6Ujv0Bl6r1sm0-wWuEdQxWBdpUpM7ZmCTDdXEsqyWSLf0AwWwzW2rFhcaWU-Ayts6f0HY1jS4Ky0UVdFajIDevu_Fszvg5Stg=w760-h450-no)
-
-Alex the CSS Husky (A PEN BY David Khourshid) - [Preview](https://codepen.io/davidkpiano/full/wMqXea/)  |  [CodePen](https://codepen.io/davidkpiano/pen/wMqXea) 
-
----
-
-![](https://lh3.googleusercontent.com/KIQ5ULPBYjU3hRwDQWAmB3_d_fwu0mX2tHGAuA7qs2-_LNCFWDaHEgkE8xWlm7sLbiQioujNSE3Ksiw89qIflv0SI4hqFzA9qExf8quL4CIuFKaQ64KKJtZ9u_oVzmLVbgRxnS3QUvAGMnXe-aJ4w0Ion2xxZPFSO0DJKS0peen_gpvwkmVDPxh1hsTlWUylKcIn5AEpk7pvhtwOmVjJ5vO9eJW7O725gXiKUFrBurEG8oNiaMRNyt4Z5egWYJAUjqqST6d2155uJjluEKUhN9DjR6u-zsXR3itTIuCGITCVoieA08MIwFdyiLYKFtEfELPNJaYzFFTaELI_Cz4KVlNVi-sIVfThSTpi66MMA3vC4XXcwVtovawoKxl94y9uqorCQMd6PP64hqFhdeT0Pl554dsKKGPzRgkd0VKe1EpTrq2UCAj_swhrK1wWQ0oU2okKS7hlghWzejevH61Zc7T9C_l-cHkCbpJfGJTEPmjgTKB-ks4gJFOaCxxhI_ti-ljaZEG99ORQHNO1ce2a6s_paFdc9Dca437Ph2DWPz82dyXzLV0pa24uc0t6EX5_Dju2gGNf0s0aZdoftuybEViSuMlcznGH=w760-h450-no)
+![](https://shots.codepen.io/ainalem/pen/rGvaaO-1280.jpg)
 
 Geometrical Birds - slideshow (A PEN BY Mikael Ainalem) - [Preview](https://codepen.io/ainalem/full/rGvaaO/)  |  [CodePen](https://codepen.io/ainalem/pen/rGvaaO)
 
