@@ -105,13 +105,7 @@ Pure CSS Moleskine Notebooks (A PEN BY Olivia) - [Preview](https://codepen.io/ol
 
 ---
 
-![](https://lh3.googleusercontent.com/Bf6alOUynlI-PTPQqkwlOaaZGvy969jj6sojEVV9K-XuW3WNES29bYhnSoIfY9hwvTx6FtGInnhYz69rO9ipCoHul0bVV9IAcoyRaPl9RCA6AoFhBfGXIFkS5Lt-DJMsigfild7WEE0h59qZ4stOa_ITWAXaKYQw2womc94eIo0AkhMoTDGGhsNwjk7n9aOmvUGdiyKG2OKploBaykRxzgSw0DUHLo0ud4MIpTVPrXuhARv0uwiU3zCBT9h8orL8NGA_v7L3OeprbHmt1L87yUHmKOanHAsw5a9l47PJD3AEOcv0JEd4uecHXi1hgAEmh1Fo4URwT3x4P_JNw7NzLhWcO2TsY2pL7DsCGoN54DlGfJa8OSI2kxiZbXximzVEq4v3WwCLmK05r4dXdvyo15lWDOFcQ5V0FmcaQTPsxICk9IwGVaZt5rwp4yl6ZKjF-vqMvGAzPfmRjWnIclukgCG0GL7MuxVejo_rz_5IH51oac-sG2fYdDbMaD4X1qw1Qna07sK4wqjayS8MWuajX2R-Vj8akqoUssvuyGtIpXLeHRkf38QilrSy3VAGVwNBPQvnmyX5lBHQTG0IXRBIz055DMdv6A8h=w760-h450-no)
-
-Animated SVG Avatar (A PEN BY Darin) - [Preview](https://codepen.io/dsenneff/full/QajVxO/)  |  [CodePen](https://codepen.io/dsenneff/pen/QajVxO)
-
----
-
-![](https://lh3.googleusercontent.com/xrVemY7o1MVeu5WyeYBBfOQ1wZMYHLsQYbJ1QmeN9Zaz3TuZ47OBFf10vXzBjWL43YK5tmm9hHYUj7N8OeGkqzCX8IW8qM_K4iQRcGKxd1azCxUjxpKl8qnqllBZOmO-3KBT9fJj4D0GTXb0gdMHC-fe2GJ4T8W_QryjxvyyomPDBugo_1fWTXs37Z7wh_lqQoU-96gg5jFkGWa73xXFcuxWKwhqoTA2NA76JkpS42UbgdOs-ExKMbbDyFLy2LhDv0nP5diErft66Nk5WzYnKmSuSiwCZVyp7ldzK5TSyB4RZNvJyp0vY15Ce9kkyG3NJ-z3jdDv0-8K4Wwj0ZDusZ4RJENjmnQTCnVHVMIJJHsAw5rsZ631HxhcnuwZaWSRYt12sd3e76bZJHyvlK3Y4hIiB887Q_enV11AganVzplqjfbxpF4kBpPhkWfi5GXnVO61EoSaZ0mRbI4IF9SA4_XiJ7Mxkn2IMc7ZA2SvBfRv3pPbp9ZhbrMYynBlgi2JvjG8pKR5jfXM5h_rYVwoKgwRqfpn3kyqmT5BA4TGySczk3YjY19oMZBvqRY6Jtn-SkTeHDqHSl18XoIeyaUF-Mg7EDcN1kW0J5GKrbyOsh-6-4-zsRbIZAIA=w696-h316-no)
+![](https://shots.codepen.io/username/pen/MQrRxX-1280.jpg)
 
 Mouse movement button (A PEN BY Tobias Reich) - [Preview](https://codepen.io/electerious/full/MQrRxX/)  |  [CodePen](https://codepen.io/electerious/pen/MQrRxX)
 
