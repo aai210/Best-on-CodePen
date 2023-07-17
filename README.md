@@ -87,7 +87,7 @@ GSAP / Fidget Spinner (A PEN BY pixelmort) - [Preview](https://codepen.io/guyom/
 
 ---
 
-![](https://lh3.googleusercontent.com/cgvNhLJK6khaFsUHBFsCvf0oZWeKwC3NwpP-LqArK36NVrkhmAHeTOWGxukyQvbVRP_jW9M_NotSopuH9edLrEKuOQv3eJN0tLY1bucSmakf1N4x-9pHfBLjQAiysnBBuqbbCuJkoLd8-lLLFcljsOL8xOwTcJRMIe7FA9aQ98quL7lOiGVuhBBtHDYGKE1FZ735Z7F_fXi1rjSccOIsE1zuDOXg1_3WNqINUz7xmTlFLT1w0rqE3zizx52_IPmIUJSZcd7MnIVTTAAPwLn-TuGXEzUc9Da6CfqC6DGMJKEvjYBSVCm9hgNSDffL62O8CJpqQhcf9PxF7EljoNGu_OnXAJRCF-_FcameYLVDxJWVjbTzGvZMMzCw6WY4jJFunyGPdb3A8HJsV-iMPuxzS-UKu2UmIQGMC2-vCv0830Ip3xyQymM908fMIHkvMxe0LA5PCzP-69pHl_Hu3x8KKkZuG4ZTidw2eJbKML2IMqtR0QBFkrRtU95DJfbWzbKwPARcsD40K1o7G5VhuqgMV8m8K6JD3x2sCut-tFe5tuqnoVadcjLYWknBSvdLX48UCLJUUd2pfmMIpHZOpIE5tUhHxva-ddQvn_th20bNKQP2VgYaXw=w760-h450-no)
+![](https://shots.codepen.io/username/pen/zzapvN-1280.jpg)
 
 Payment card Interactive UI (A PEN BY Praveen Kumar Gorakala) - [Preview](https://codepen.io/onlyveen/full/zzapvN/)  |  [CodePen](https://codepen.io/onlyveen/pen/zzapvN) 
 
