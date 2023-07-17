@@ -141,12 +141,6 @@ Dynamic Colour Picking (A PEN BY Kyle Wetton) - [Preview](https://codepen.io/kyl
 
 ---
 
-![](http://immage.biz/images/2020/08/30/SfNX.jpg)
-
-Create blurred fills for images with aspect ratio containers in CSS (A PEN BY Martijn Cuppens) - [Preview](https://codepen.io/MartijnCuppens/full/NWNdOBR)  |  [CodePen](https://codepen.io/MartijnCuppens/pen/NWNdOBR)
-
----
-
 ![](https://cdn.dribbble.com/users/33073/screenshots/14958858/frame_1_4x.png)
 
 Skateboard Video Platform (A PEN BY Aysenur Turk) - [Preview](https://codepen.io/TurkAysenur/full/LYRKpWe)  |  [CodePen](https://codepen.io/TurkAysenur/pen/LYRKpWe)
