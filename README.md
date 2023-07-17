@@ -123,13 +123,7 @@ Bus Derby (A PEN BY Matthew Main) - [Preview](https://codepen.io/matthewmain/ful
 
 ---
 
-![](http://immage.biz/images/2019/05/15/SQlp.jpg)
-
-Direction aware hover effect (A PEN BY Tobias Reich) - [Preview](https://codepen.io/electerious/full/xeJPbB)  |  [CodePen](https://codepen.io/anon/pen/vwgpvx)
-
----
-
-![](http://immage.biz/images/2019/05/15/SQlp.jpg)
+![](https://shots.codepen.io/username/pen/xeJPbB-1280.jpg)
 
 Direction aware hover effect (A PEN BY Tobias Reich) - [Preview](https://codepen.io/electerious/full/xeJPbB)  |  [CodePen](https://codepen.io/anon/pen/vwgpvx)
 
