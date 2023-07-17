@@ -81,12 +81,6 @@ Gravity Points (A PEN BY icebrg) - [Preview](https://codepen.io/icebrg/full/qEyK
 
 ---
 
-![](https://lh3.googleusercontent.com/qiZCzsK0G8hXsch-J2N7FUAjY3bXhpSejuS91VkGEp8CUaFkqQvXmE1LlXN0NVlv30K-K9rUNfIBWxyDVsjQHro4b8ow2JiZSTJDfG9tCGj44d-eQqxe0im8oSkqLkKFO050kH1jLe_Jcv1YZzfQimixNEM3DiHoXpVmeBSavnfZm0AKPhSLI10Kpc6mWOBFRc4V60A1iIWG90GvN2Zg2wsZppE_ENuQTeP5t4iT5ohRiH3QVeu2kx46X3-48V1PjuPTNbGT_5OO3h82v0A7FPsEimWG0ZNT7PU3fPWBmaeVv64IHAVB6_MzTT9TarF6_adgQhzqfqtUoBYCmFGYT2exvHStatksQFJ6ILK7PyacvaHxzVyD3y_RqhKakZPPRBRhICVD8t9N2qfT9CnH5B8zuFe9Gl8NhtjVvR6-njSp9kbqZ_FkG42VXZOJ5B5Vd8wbxERDGD8sQeyFN3O24AJt_VgbfazngBGYG2x-NBDWFoHMo6vkQNo0yHEzPjC8FV8Si9ToP0BrD-xjHdtjAPXWoDcfakUoRjVGZOgWiqn4lsas15QY_WvrhSPM8ojwLh8fAhQRRAjDSsfiu-j9EVd8s2wwKl2P1G225ZsJivxgTgwQUw=w760-h450-no)
-
-Login Box Concept (A PEN BY Jamie Coulter) - [Preview](https://codepen.io/jcoulterdesign/full/azepmX/)  |  [CodePen](https://codepen.io/jcoulterdesign/pen/azepmX) 
-
----
-
 ![](https://lh3.googleusercontent.com/xTIf0B8Hlu6ZVrYeLL_VO8NJ5OLKFBrNw7dve0JKxKohMTPqLnaWrNajDf0wGVYm22sxY3KyIPfPx6ic0l5LjcHy2Pyu52bd_H7xxVjv8EpZYjeHDTZc4qlAW-SmFcHZB_R3aVVDEXiTMLPdp7REHSTAEmh8G45qN3WaSBMp60vS9cmmUDKuyqig2b9e0z5KtyC2vPvJ4ESGa1-8C6DjpQCOkUBhSBKha8d3F4PwNCIKmGfSOmwYVRkB2BMumrWF_eSyjew1swfw3AL_DGFIBrCdBcvlEP3oRjfGCe1yTXi1mi94P9p7aizu8TscAp0QpG188I31EaQFIrGacYIiUP0stOwh01aZjhzbNz2nTiZSx_Lbm62rJ3KvFSKdaJHgEpeUvj6bYD0AviXsnN38vQHuRcdN1mW4DPa_1TTJBSPy0xEI89W6x0suCluJOJJ800HB7KuKwwFJ8Rsn9xKlJeVfc4fUaACejKNUbOOZ439p-3dmCrcjuxv3KxNbWZ_R9XiHnuqaTe0GZFk51hsNiyRPRdFY0We_Kb5usamM0SoGmfaUwUhGOoHXsPT-cD50RLtjIuErMKmW6PzQNbm2-QRplr9KbYDdu0CTXBhslBHCjgqz0g=w760-h450-no)
 
 Responsive Image Comparison Slider (A PEN BY Ege Görgülü) - [Preview](https://codepen.io/bamf/full/jEpxOX/)  |  [CodePen](https://codepen.io/bamf/pen/jEpxOX)
