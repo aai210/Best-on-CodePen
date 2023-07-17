@@ -135,7 +135,7 @@ Solar CSSystem(A PEN BY Rob DiMarzo) - [Preview](https://codepen.io/robdimarzo/f
 
 ---
 
-![](https://codropspz-tympanus.netdna-ssl.com/codrops/wp-content/uploads/2019/09/DynamicColorChange_featured.jpg)
+![](https://shots.codepen.io/username/pen/KKPvbLX-800.jpg)
 
 Dynamic Colour Picking (A PEN BY Kyle Wetton) - [Preview](https://codepen.io/kylewetton/full/67d6d5a6a4b142c8a8612fed92992792)  |  [CodePen](https://codepen.io/kylewetton/pen/67d6d5a6a4b142c8a8612fed92992792)
 
