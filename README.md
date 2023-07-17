@@ -99,7 +99,7 @@ Geometrical Birds - slideshow (A PEN BY Mikael Ainalem) - [Preview](https://code
 
 ---
 
-![](https://lh3.googleusercontent.com/UpCCfe2blgrWHjjDnxLhagQLapLPpBR3ir8PoOxU7ASieoYVkSxL6nRsqwKUC5DJd0l0QXUm40HkgYDPSTq9kAMPtjAuhFmLwvjlaiTzUlthEvLkOjAZna-IZZ6ke5n58AxU-KeboP2T281j046s7mTai30cQ7h6Ggoh-YMWnV6yqEmCoTTVQMnbBDYtUexe2UDjUe9FqtkI4Ex9tGXRZObQUb98Ptg6-MmgLWwPuf--58AMhB2A9UtDUh6z-AUplNnd7EoVoJoiNFka64m8ADm_98DNb_c6u0c2q8tC6X-8YRWtZaShQ9KhO64AFBLP2MOofXo537xBcwT1RbwcztZKtiqBx0TbI_a0g3kYQXTB4l5nC5RYbmEzwZGpTn13HrdjECr9ohe1cNEh3v20zH-FFvrw8W7gdKyRH6Hg7g7Hq6ibilWV5A_Bryw5UHh3JYFZQVhe8bmMnU3aGRdUhbsBVvdBqnzg0vWb7o5S8apY6hJAtC0bdqkOvdR7UZOy7BmmSg8j4KL9xVzhHutIqD4l5sMw6qxgFH4dYR5hKt3KsQxxajlV1zOFVNGF4c2U6bo081Fyav1ROqlnYhCpGqfXLTJK2DfO=w760-h450-no)
+![](https://shots.codepen.io/username/pen/bLYQQE-800.jpg)
 
 Pure CSS Moleskine Notebooks (A PEN BY Olivia) - [Preview](https://codepen.io/oliviale/full/bLYQQE/)  |  [CodePen](https://codepen.io/oliviale/pen/bLYQQE)
 
