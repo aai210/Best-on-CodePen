@@ -129,7 +129,7 @@ Direction aware hover effect (A PEN BY Tobias Reich) - [Preview](https://codepen
 
 ---
 
-![](http://immage.biz/images/2019/05/15/SQlz.jpg)
+![](https://shots.codepen.io/username/pen/LMOLer-1280.jpg)
 
 Solar CSSystem(A PEN BY Rob DiMarzo) - [Preview](https://codepen.io/robdimarzo/full/LMOLer)  |  [CodePen](https://codepen.io/anon/pen/PvWQZe)
 
